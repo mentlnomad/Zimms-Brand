@@ -1,0 +1,36 @@
+/* Generated from Figma Variables. First mode = :root default.
+   FLOAT tokens are unitless — multiply by 1px in calc() where a length is needed. */
+
+:root {
+  --bg-card-color: rgb(239,234,214); /* @kind color */
+  --bg-color: rgb(251,247,237); /* @kind color */
+  --black-2-2: rgb(41,41,35); /* @kind color */
+  --black-2: rgb(51,51,51); /* @kind color */
+  --black-3: rgb(41,41,35); /* @kind color */
+  --black: rgb(30,30,30); /* @kind color */
+  --color: rgb(232,196,84); /* @kind color */
+  --dark-blue: rgb(42,62,82); /* @kind color */
+  --dark-green: rgb(62,71,68); /* @kind color */
+  --deep-forest-green: rgb(45,74,45); /* @kind color */
+  --deep-navy: rgb(26,39,68); /* @kind color */
+  --font-size-12: 12;
+  --font-size-14: 14;
+  --font-size-16: 16;
+  --font-size-20: 20;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --harvest-gold: rgb(154,114,0); /* @kind color */
+  --item-spacing-10: 10;
+  --item-spacing-23-99: 23.99;
+  --light-bg: rgb(247,247,247); /* @kind color */
+  --ligth-deep-blue: rgb(72,82,105); /* @kind color */
+  --line-height-40: 40;
+  --linen: rgb(245,240,232); /* @kind color */
+  --opacity-100: 100; /* @kind other */
+  --orange-color: rgb(181,85,53); /* @kind color */
+  --primary: rgb(120,157,143); /* @kind color */
+  --stroke-weight-1-67: 1.667;
+  --stroke-weight-1: 1;
+  --white: rgb(255,255,255); /* @kind color */
+  --width-24: 24; /* @kind spacing */
+}

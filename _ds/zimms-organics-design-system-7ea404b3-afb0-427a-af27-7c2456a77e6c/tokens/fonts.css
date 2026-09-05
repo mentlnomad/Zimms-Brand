@@ -1,0 +1,14 @@
+/* Zimms Organics — webfonts.
+   Packaging/print track fonts ship as real binaries (supplied by the brand).
+   Web track (Lora, DM Sans, Raleway, Cormorant Garamond) loads from Google Fonts. */
+
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Raleway:ital,wght@0,100..900;1,100..900&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap");
+
+/* — Packaging display: Novecento Sans Wide DemiBold — */
+@font-face{font-family:"Novecento Sans Wide";src:url("../assets/fonts/Novecentosanswide-DemiBold.otf") format("opentype");font-weight:600;font-style:normal;font-display:swap}
+
+/* — Packaging body: National Book — */
+@font-face{font-family:"National";src:url("../assets/fonts/National-Book.otf") format("opentype");font-weight:400;font-style:normal;font-display:swap}
+
+/* — Lora Italic variable (supplied binary; upright Lora comes from Google Fonts) — */
+@font-face{font-family:"Lora Supplied";src:url("../assets/fonts/Lora-Italic-VariableFont_wght.ttf") format("truetype-variations");font-weight:400 700;font-style:italic;font-display:swap}

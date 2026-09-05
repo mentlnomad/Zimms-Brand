@@ -1,0 +1,130 @@
+{
+ "assets/photography/founder-portrait.png": {
+  "bytes": 2241166,
+  "dim": "1600×1067"
+ },
+ "assets/photography/grove-footer.png": {
+  "bytes": 480021,
+  "dim": "768×432"
+ },
+ "assets/photography/lifestyle-1.jpg": {
+  "bytes": 1864968,
+  "dim": "3500×2334"
+ },
+ "assets/photography/lifestyle-2.jpg": {
+  "bytes": 1575267,
+  "dim": "2334×3500"
+ },
+ "assets/photography/lifestyle-3.jpg": {
+  "bytes": 1393781,
+  "dim": "3500×2334"
+ },
+ "assets/photography/lifestyle-4.jpg": {
+  "bytes": 1269739,
+  "dim": "3500×2334"
+ },
+ "assets/photography/lifestyle-5.jpg": {
+  "bytes": 1841942,
+  "dim": "3500×2334"
+ },
+ "assets/photography/lifestyle-6.jpg": {
+  "bytes": 1373248,
+  "dim": "2334×3500"
+ },
+ "assets/photography/lifestyle-cook-pour.png": {
+  "bytes": 1142172,
+  "dim": "800×1174"
+ },
+ "assets/photography/pantry-1.png": {
+  "bytes": 1205537,
+  "dim": "800×1200"
+ },
+ "assets/photography/pantry-2.png": {
+  "bytes": 1361206,
+  "dim": "800×1067"
+ },
+ "assets/photography/pantry-3.png": {
+  "bytes": 1263014,
+  "dim": "800×1200"
+ },
+ "assets/photography/retail-store.png": {
+  "bytes": 2686711,
+  "dim": "1600×1067"
+ },
+ "assets/photography/ritual-1.jpg": {
+  "bytes": 635094,
+  "dim": "1333×2000"
+ },
+ "assets/photography/ritual-hero.png": {
+  "bytes": 3429173,
+  "dim": "1600×1067"
+ },
+ "assets/photography/ugc-2.jpg": {
+  "bytes": 1733351,
+  "dim": "3500×2334"
+ },
+ "assets/photography/ugc-3.jpg": {
+  "bytes": 1463571,
+  "dim": "2334×3500"
+ },
+ "assets/trust/badge-1.png": {
+  "bytes": 22623,
+  "dim": "200×209"
+ },
+ "assets/trust/badge-2.png": {
+  "bytes": 29262,
+  "dim": "200×200"
+ },
+ "assets/trust/badge-3.png": {
+  "bytes": 29524,
+  "dim": "200×200"
+ },
+ "assets/trust/badge-4.png": {
+  "bytes": 34968,
+  "dim": "200×202"
+ },
+ "assets/trust/usp-icon-grid.png": {
+  "bytes": 403710,
+  "dim": "1536×1024"
+ },
+ "assets/packaging/dieline-01-family.jpg": {
+  "bytes": 17715146,
+  "dim": "6668×3999"
+ },
+ "assets/packaging/dieline-02-cook-front.jpg": {
+  "bytes": 3150728,
+  "dim": "6668×4000"
+ },
+ "assets/packaging/dieline-03-cook-context.jpg": {
+  "bytes": 13306490,
+  "dim": "6667×4000"
+ },
+ "assets/packaging/dieline-04-heal-front.jpg": {
+  "bytes": 2669201,
+  "dim": "6668×4001"
+ },
+ "assets/packaging/dieline-05-heal-context.jpg": {
+  "bytes": 11884668,
+  "dim": "6667×4001"
+ },
+ "assets/fonts/Novecentosanswide-DemiBold.otf": {
+  "bytes": 77948,
+  "dim": null
+ },
+ "assets/fonts/National-Book.otf": {
+  "bytes": 199072,
+  "dim": null
+ },
+ "assets/fonts/Lora-Italic-VariableFont_wght.ttf": {
+  "bytes": 219120,
+  "dim": null
+ },
+ "assets/logo/zimms-wordmark.png": {
+  "bytes": 19795,
+  "dim": null
+ },
+ "assets/illustrations/library-sheet.png": {
+  "bytes": 434065,
+  "dim": null
+ }
+}

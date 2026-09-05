@@ -1,0 +1,89 @@
+/* Zimms Organics — colour.
+   Hex values are the DIGITAL system. Pantone values are the PRINT system.
+   They are equivalents, not conversions — always state which medium you are in. */
+
+:root{
+  /* ── Core (locked) ───────────────────────────────────────────── */
+  --zo-forest:#2D4A2D;        /* Deep Forest Green · Pantone 446 C · HEAL */
+  --zo-terracotta:#B85C38;    /* Burnt Terracotta · Pantone 7592 C · COOK */
+  --zo-navy:#1A2744;          /* Deep Navy · Pantone 7546 C · HEAL+ */
+  --zo-cream:#F5F0E8;         /* Cream / Linen · Pantone 11-0104 TCX */
+
+  /* ── The Oil (gold family) ───────────────────────────────────── */
+  --zo-gold-harvest:#9A7200;
+  --zo-gold-amber:#C49A00;
+  --zo-gold-canopy:#E8C454;
+  --zo-gold-first-light:#F5E8B0;
+
+  /* ── The Sky ─────────────────────────────────────────────────── */
+  --zo-sky-grove:#2A6496;
+  --zo-sky-midday:#5B9EC9;
+  --zo-sky-haze:#C2DCF0;
+
+  /* ── The Earth ───────────────────────────────────────────────── */
+  --zo-clay:#C47A3A;
+  --zo-wheat:#E8B87A;
+  --zo-root:#3D2410;          /* Dark Olive Root — ALL body copy */
+
+  /* ── Ground tones lifted verbatim from the production file ───── */
+  --zo-paper:#FFFFFC;         /* page ground on the live site (rgb 255,255,252) */
+  --zo-shell:#FBF7ED;         /* section wash (rgb 251,247,237) */
+  --zo-shell-card:#EFEAD6;    /* card fill on shell (rgb 239,234,214) */
+  --zo-bone:#F3F3EC;          /* alternate wash (rgb 243,243,236) */
+  --zo-ink:#292923;           /* UI ink on light (rgb 41,41,35) */
+  --zo-ink-soft:#1E1E1E;      /* secondary ink (rgb 30,30,30) */
+  --zo-slate:#2A3E52;         /* dark blue accent (rgb 42,62,82) */
+  --zo-slate-soft:#485269;    /* muted navy text (rgb 72,82,105) */
+  --zo-moss:#3E4744;          /* dark green neutral (rgb 62,71,68) */
+  --zo-terracotta-live:#D45F35; /* terracotta as used in production UI */
+  --zo-line:#C8C8C8;          /* hairline rule */
+  --zo-line-soft:rgba(61,36,16,.14);
+
+  /* ── Tints & shades (10% steps toward Cream / toward Root) ───── */
+  --zo-forest-90:#42583F; --zo-forest-70:#6D7E68; --zo-forest-50:#9BA595; --zo-forest-30:#C7CBC0; --zo-forest-10:#EDECE5;
+  --zo-terracotta-90:#BF6B4A; --zo-terracotta-70:#D0906F; --zo-terracotta-50:#DDB49E; --zo-terracotta-30:#E9D3C6; --zo-terracotta-10:#F4ECE5;
+  --zo-navy-90:#2E3A55; --zo-navy-70:#5C6377; --zo-navy-50:#8A8FA0; --zo-navy-30:#B9BCC7; --zo-navy-10:#E5E5E7;
+  --zo-gold-90:#A57F1A; --zo-gold-70:#BC9C4E; --zo-gold-50:#CDB983; --zo-gold-30:#E1D5B7; --zo-gold-10:#F1EDE0;
+  --zo-sky-90:#3B7099; --zo-sky-70:#6392B4; --zo-sky-50:#8DB2CB; --zo-sky-30:#BAD2E1; --zo-sky-10:#E6EEF4;
+
+  /* ── Semantic ────────────────────────────────────────────────── */
+  --zo-success:#2D4A2D;
+  --zo-success-surface:#EDECE5;
+  --zo-error:#8F2E1B;
+  --zo-error-surface:#F6E7E2;
+  --zo-warning:#9A7200;
+  --zo-warning-surface:#F5E8B0;
+  --zo-info:#2A6496;
+  --zo-info-surface:#C2DCF0;
+  --zo-disabled-fg:rgba(61,36,16,.38);
+  --zo-disabled-bg:rgba(61,36,16,.08);
+  --zo-focus-ring:#2A6496;
+
+  /* ── Product colour coding ───────────────────────────────────── */
+  --zo-product-cook:var(--zo-terracotta);
+  --zo-product-heal:var(--zo-forest);
+  --zo-product-heal-plus:var(--zo-navy);
+
+  /* ── Semantic aliases (use these in components) ──────────────── */
+  --surface-page:var(--zo-paper);
+  --surface-wash:var(--zo-cream);
+  --surface-shell:var(--zo-shell);
+  --surface-card:#FFFFFC;
+  --surface-card-warm:var(--zo-shell-card);
+  --surface-inverse:var(--zo-navy);
+  --surface-inverse-alt:var(--zo-forest);
+
+  --text-body:var(--zo-root);
+  --text-heading:var(--zo-navy);
+  --text-muted:var(--zo-slate-soft);
+  --text-inverse:#FFFFFF;
+  --text-accent:var(--zo-terracotta);
+  --text-link:var(--zo-forest);
+  --text-link-hover:var(--zo-terracotta);
+
+  --border-hairline:var(--zo-line-soft);
+  --border-strong:var(--zo-navy);
+  --border-input:rgba(26,39,68,.24);
+
+  --star-fill:var(--zo-gold-harvest);
+}

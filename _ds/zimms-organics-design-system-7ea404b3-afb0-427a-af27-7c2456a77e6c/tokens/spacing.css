@@ -1,0 +1,80 @@
+/* Zimms Organics — spacing, grid, radii, elevation, motion.
+   Every spacing value is a multiple of 8. 4px is permitted only for icon/type nudges. */
+
+:root{
+  /* ── 8-point scale ───────────────────────────────────────────── */
+  --space-2xs:4px;   /* nudges only */
+  --space-xs:8px;
+  --space-sm:16px;
+  --space-md:24px;
+  --space-lg:32px;
+  --space-xl:48px;
+  --space-2xl:64px;
+  --space-3xl:80px;
+  --space-4xl:120px;
+  --space-5xl:160px;
+
+  /* ── Grid ────────────────────────────────────────────────────── */
+  --canvas:1440px; /* @kind spacing */
+  --content-max:1280px; /* @kind spacing */
+  --grid-columns:12; /* @kind spacing */
+  --gutter:24px;
+  --gutter-mobile:16px;
+
+  /* outer gutters by breakpoint */
+  --page-pad-xl:80px;   /* ≥1440 */
+  --page-pad-lg:64px;   /* 1280–1439 */
+  --page-pad-md:40px;   /* 768–1279 */
+  --page-pad-sm:24px;   /* 480–767 */
+  --page-pad-xs:16px;   /* <480 */
+
+  /* ── Section rhythm (vertical padding) ───────────────────────── */
+  --section-y:120px;        --section-y-tablet:80px;  --section-y-mobile:64px;
+  --section-y-utility:80px; --section-y-utility-tablet:56px; --section-y-utility-mobile:48px;
+
+  /* within a section */
+  --gap-label-heading:12px;
+  --gap-heading-body:24px;
+  --gap-body-cta:32px;
+  --gap-grid-row:48px;
+  --gap-grid-row-mobile:32px;
+
+  /* ── Radii — the system is nearly square ─────────────────────── */
+  --radius-none:0;
+  --radius-xs:2px;
+  --radius-sm:4px;    /* buttons, inputs, badges */
+  --radius-md:8px;    /* cards, media, hero bottom */
+  --radius-lg:12px;
+  --radius-pill:999px;/* trust chips, filter pills only */
+
+  /* ── Component sizing ────────────────────────────────────────── */
+  --nav-h:80px;               /* production desktop nav */
+  --nav-h-compact:72px;
+  --nav-h-mobile:64px;
+  --btn-h:48px;  --btn-h-lg:54px;  --btn-pad-x:32px;  --btn-pad-x-sm:24px;
+  --input-h:48px; --input-pad-x:16px; --input-pad-y:12px;
+  --card-pad:24px; --card-pad-lg:32px; --card-gap:24px;
+  --badge-pad:6px 12px;
+  --accordion-pad-y:24px;
+  --tap-min:44px;
+  --email-wrapper:600px; --email-pad-x:24px; --email-block-gap:40px; --email-inner-gap:24px;
+
+  /* ── Elevation — restrained. Cards prefer hairlines to shadow. ── */
+  --shadow-none:none;
+  --shadow-raised:0 1px 2px rgba(26,39,68,.06);
+  --shadow-card:0 2px 8px rgba(26,39,68,.08);
+  --shadow-overlay:0 8px 32px rgba(26,39,68,.16);
+  --shadow-sticky:0 -2px 16px rgba(26,39,68,.08);
+  --scrim-hero:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)); /* @kind other */
+  --scrim-bottom:linear-gradient(180deg,rgba(26,39,68,0) 0%,rgba(26,39,68,.72) 100%); /* @kind other */
+
+  /* ── Motion — the slow pour. Never a snap. ───────────────────── */
+  --ease-pour:cubic-bezier(.22,.61,.36,1); /* @kind other */
+  --ease-settle:cubic-bezier(.33,1,.68,1); /* @kind other */
+  --ease-in-out:cubic-bezier(.65,0,.35,1); /* @kind other */
+  --dur-fast:150ms; /* @kind other */
+  --dur-ui:220ms; /* @kind other */
+  --dur-slow:300ms; /* @kind other */
+  --dur-reveal:600ms; /* @kind other */
+  --dur-pour:900ms; /* @kind other */
+}

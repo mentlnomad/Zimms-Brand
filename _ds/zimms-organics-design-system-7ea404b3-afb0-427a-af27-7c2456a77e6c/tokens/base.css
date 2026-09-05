@@ -1,0 +1,18 @@
+/* Zimms Organics — base element defaults.
+   No pure black. No pure white for type. Body copy is Dark Olive Root on Cream. */
+
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--surface-page);color:var(--text-body);font-family:var(--font-sans);font-size:var(--fs-body);line-height:var(--lh-body);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+h1,h2,h3,h4{font-family:var(--font-serif);font-weight:var(--fw-regular);color:var(--text-heading);margin:0;text-wrap:pretty}
+h1{font-size:var(--fs-h1);line-height:var(--lh-h1)}
+h2{font-size:var(--fs-h2);line-height:var(--lh-h2)}
+h3{font-size:var(--fs-h3);line-height:var(--lh-h3)}
+h4{font-size:var(--fs-h4);line-height:var(--lh-h4);font-weight:var(--fw-medium)}
+p{margin:0 0 var(--space-sm);max-width:var(--measure);text-wrap:pretty}
+a{color:var(--text-link);text-decoration:none;border-bottom:1px solid currentColor;transition:color var(--dur-ui) var(--ease-pour),border-color var(--dur-ui) var(--ease-pour)}
+a:hover{color:var(--text-link-hover)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--zo-focus-ring);outline-offset:2px}
+img{max-width:100%;display:block}
+hr{border:0;border-top:1px solid var(--border-hairline);margin:var(--space-lg) 0}
+::selection{background:var(--zo-gold-first-light);color:var(--zo-root)}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms !important;transition-duration:.01ms !important}}

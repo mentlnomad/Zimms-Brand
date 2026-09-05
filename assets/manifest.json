@@ -1,0 +1,4476 @@
+{
+ "brand": "Zimms Organics",
+ "version": "1.1.0",
+ "updated": "2026-09-05",
+ "note": "Every download ships with a README.txt carrying the rules for what is inside. Logo lockups and illustration marks ship in all four core colors as well as currentColor; the print PDFs ship as supplied.",
+ "categories": [
+  "logo",
+  "illustration",
+  "icon",
+  "trust",
+  "photography",
+  "packaging",
+  "font",
+  "tokens"
+ ],
+ "assets": [
+  {
+   "id": "logo-wordmark",
+   "name": "Wordmark",
+   "category": "logo",
+   "ratio": "1135×97",
+   "defaultSize": "24px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-wordmark.svg",
+     "ext": "svg",
+     "bytes": 3228,
+     "dimensions": "1135×97",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-forest.svg",
+     "ext": "svg",
+     "bytes": 3223,
+     "dimensions": "1135×97",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3223,
+     "dimensions": "1135×97",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-navy.svg",
+     "ext": "svg",
+     "bytes": 3223,
+     "dimensions": "1135×97",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-cream.svg",
+     "ext": "svg",
+     "bytes": 3223,
+     "dimensions": "1135×97",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-bone.svg",
+     "ext": "svg",
+     "bytes": 3223,
+     "dimensions": "1135×97",
+     "colour": "Bone"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark.png",
+     "ext": "png",
+     "bytes": 19795,
+     "dimensions": "1135×97"
+    }
+   ],
+   "preview": "assets/logo/zimms-wordmark-forest.svg",
+   "usage": "Site nav, email header, footer",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "16px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "logo-wordmark-descriptor",
+   "name": "Wordmark + descriptor",
+   "category": "logo",
+   "ratio": "304×48",
+   "defaultSize": "32px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor.svg",
+     "ext": "svg",
+     "bytes": 7302,
+     "dimensions": "304×48",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor-forest.svg",
+     "ext": "svg",
+     "bytes": 7297,
+     "dimensions": "304×48",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor-terracotta.svg",
+     "ext": "svg",
+     "bytes": 7297,
+     "dimensions": "304×48",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor-navy.svg",
+     "ext": "svg",
+     "bytes": 7297,
+     "dimensions": "304×48",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor-cream.svg",
+     "ext": "svg",
+     "bytes": 7297,
+     "dimensions": "304×48",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-descriptor-bone.svg",
+     "ext": "svg",
+     "bytes": 7297,
+     "dimensions": "304×48",
+     "colour": "Bone"
+    }
+   ],
+   "preview": "assets/logo/zimms-wordmark-descriptor-forest.svg",
+   "usage": "Front of pack, first slide, press kit",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "20px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "logo-wordmark-stack",
+   "name": "Wordmark stacked",
+   "category": "logo",
+   "ratio": "672×236",
+   "defaultSize": "64px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-wordmark-stack.svg",
+     "ext": "svg",
+     "bytes": 3247,
+     "dimensions": "672×236",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-stack-forest.svg",
+     "ext": "svg",
+     "bytes": 3242,
+     "dimensions": "672×236",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-stack-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3242,
+     "dimensions": "672×236",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-stack-navy.svg",
+     "ext": "svg",
+     "bytes": 3242,
+     "dimensions": "672×236",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-stack-cream.svg",
+     "ext": "svg",
+     "bytes": 3242,
+     "dimensions": "672×236",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-wordmark-stack-bone.svg",
+     "ext": "svg",
+     "bytes": 3242,
+     "dimensions": "672×236",
+     "colour": "Bone"
+    }
+   ],
+   "preview": "assets/logo/zimms-wordmark-stack-forest.svg",
+   "usage": "Square crops, tight columns, invoice head",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "32px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "logo-seal",
+   "name": "Seal",
+   "category": "logo",
+   "ratio": "430×439",
+   "defaultSize": "96px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-seal.svg",
+     "ext": "svg",
+     "bytes": 4280,
+     "dimensions": "430×439",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-seal-forest.svg",
+     "ext": "svg",
+     "bytes": 4275,
+     "dimensions": "430×439",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-seal-terracotta.svg",
+     "ext": "svg",
+     "bytes": 4275,
+     "dimensions": "430×439",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-seal-navy.svg",
+     "ext": "svg",
+     "bytes": 4275,
+     "dimensions": "430×439",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-seal-cream.svg",
+     "ext": "svg",
+     "bytes": 4275,
+     "dimensions": "430×439",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-seal-bone.svg",
+     "ext": "svg",
+     "bytes": 4275,
+     "dimensions": "430×439",
+     "colour": "Bone"
+    }
+   ],
+   "preview": "assets/logo/zimms-seal-forest.svg",
+   "usage": "Label centrepiece, certificate, poster",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "48px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "logo-z-ring",
+   "name": "Z ring",
+   "category": "logo",
+   "ratio": "229×276",
+   "defaultSize": "40px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-z-ring.svg",
+     "ext": "svg",
+     "bytes": 1007,
+     "dimensions": "229×276",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-z-ring-forest.svg",
+     "ext": "svg",
+     "bytes": 1002,
+     "dimensions": "229×276",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-z-ring-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1002,
+     "dimensions": "229×276",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-z-ring-navy.svg",
+     "ext": "svg",
+     "bytes": 1002,
+     "dimensions": "229×276",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-z-ring-cream.svg",
+     "ext": "svg",
+     "bytes": 1002,
+     "dimensions": "229×276",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-z-ring-bone.svg",
+     "ext": "svg",
+     "bytes": 1002,
+     "dimensions": "229×276",
+     "colour": "Bone"
+    }
+   ],
+   "preview": "assets/logo/zimms-z-ring-forest.svg",
+   "usage": "App icon on light, monogram on stationery",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "20px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "logo-z-solid",
+   "name": "Z solid",
+   "category": "logo",
+   "ratio": "229×276",
+   "defaultSize": "40px",
+   "formats": [
+    {
+     "path": "assets/logo/zimms-z-solid.svg",
+     "ext": "svg",
+     "bytes": 645,
+     "dimensions": "229×276",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/logo/zimms-z-solid-forest.svg",
+     "ext": "svg",
+     "bytes": 640,
+     "dimensions": "229×276",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/logo/zimms-z-solid-terracotta.svg",
+     "ext": "svg",
+     "bytes": 640,
+     "dimensions": "229×276",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/logo/zimms-z-solid-navy.svg",
+     "ext": "svg",
+     "bytes": 640,
+     "dimensions": "229×276",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/logo/zimms-z-solid-cream.svg",
+     "ext": "svg",
+     "bytes": 640,
+     "dimensions": "229×276",
+     "colour": "Cream"
+    },
+    {
+     "path": "assets/logo/zimms-z-solid-bone.svg",
+     "ext": "svg",
+     "bytes": 640,
+     "dimensions": "229×276",
+     "colour": "Bone"
+    }
+   ],
+   "preview": "assets/logo/zimms-z-solid-forest.svg",
+   "usage": "App icon on dark, small-scale stamp",
+   "restrictions": [
+    "Single-color silhouette — never recolor part of a mark",
+    "Approved pairings: Forest or Navy on Paper, Cream, Shell and Bone; Bone or Cream on Forest, Navy and Terracotta; Terracotta for the wordmark on Cream only",
+    "No stroke, no rotation, no stretch: set height only, width follows the ratio",
+    "Never on a photograph without a flat panel behind it"
+   ],
+   "minSize": "20px",
+   "license": "Zimms Organics trademark — approved Zimms work only",
+   "colors": "currentColor plus Forest, Terracotta, Navy, Cream and Bone, pre-filled"
+  },
+  {
+   "id": "mark-about",
+   "name": "about",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-about.svg",
+     "ext": "svg",
+     "bytes": 43965,
+     "dimensions": "24×24",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-about-forest.svg",
+     "ext": "svg",
+     "bytes": 43968,
+     "dimensions": "24×24",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-about-terracotta.svg",
+     "ext": "svg",
+     "bytes": 43943,
+     "dimensions": "24×24",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-about-navy.svg",
+     "ext": "svg",
+     "bytes": 43943,
+     "dimensions": "24×24",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-about-cream.svg",
+     "ext": "svg",
+     "bytes": 43943,
+     "dimensions": "24×24",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-about.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-avocado-cut",
+   "name": "avocadoCut",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-avocado-cut.svg",
+     "ext": "svg",
+     "bytes": 1946,
+     "dimensions": "204×122",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-cut-forest.svg",
+     "ext": "svg",
+     "bytes": 1941,
+     "dimensions": "204×122",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-cut-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1941,
+     "dimensions": "204×122",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-cut-navy.svg",
+     "ext": "svg",
+     "bytes": 1941,
+     "dimensions": "204×122",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-cut-cream.svg",
+     "ext": "svg",
+     "bytes": 1941,
+     "dimensions": "204×122",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-avocado-cut.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-avocado-half",
+   "name": "avocadoHalf",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-avocado-half.svg",
+     "ext": "svg",
+     "bytes": 2163,
+     "dimensions": "235×123",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-half-forest.svg",
+     "ext": "svg",
+     "bytes": 2158,
+     "dimensions": "235×123",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-half-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2158,
+     "dimensions": "235×123",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-half-navy.svg",
+     "ext": "svg",
+     "bytes": 2158,
+     "dimensions": "235×123",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-half-cream.svg",
+     "ext": "svg",
+     "bytes": 2158,
+     "dimensions": "235×123",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-avocado-half.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-avocado",
+   "name": "avocado",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-avocado.svg",
+     "ext": "svg",
+     "bytes": 761,
+     "dimensions": "152×183",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-forest.svg",
+     "ext": "svg",
+     "bytes": 756,
+     "dimensions": "152×183",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-terracotta.svg",
+     "ext": "svg",
+     "bytes": 756,
+     "dimensions": "152×183",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-navy.svg",
+     "ext": "svg",
+     "bytes": 756,
+     "dimensions": "152×183",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-avocado-cream.svg",
+     "ext": "svg",
+     "bytes": 756,
+     "dimensions": "152×183",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-avocado.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-bagel",
+   "name": "bagel",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-bagel.svg",
+     "ext": "svg",
+     "bytes": 2327,
+     "dimensions": "226×173",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-bagel-forest.svg",
+     "ext": "svg",
+     "bytes": 2322,
+     "dimensions": "226×173",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-bagel-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2322,
+     "dimensions": "226×173",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-bagel-navy.svg",
+     "ext": "svg",
+     "bytes": 2322,
+     "dimensions": "226×173",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-bagel-cream.svg",
+     "ext": "svg",
+     "bytes": 2322,
+     "dimensions": "226×173",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-bagel.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-bread-loaf",
+   "name": "breadLoaf",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-bread-loaf.svg",
+     "ext": "svg",
+     "bytes": 1558,
+     "dimensions": "126×128",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-loaf-forest.svg",
+     "ext": "svg",
+     "bytes": 1553,
+     "dimensions": "126×128",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-loaf-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1553,
+     "dimensions": "126×128",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-loaf-navy.svg",
+     "ext": "svg",
+     "bytes": 1553,
+     "dimensions": "126×128",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-loaf-cream.svg",
+     "ext": "svg",
+     "bytes": 1553,
+     "dimensions": "126×128",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-bread-loaf.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-bread-row",
+   "name": "breadRow",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-bread-row.svg",
+     "ext": "svg",
+     "bytes": 1576,
+     "dimensions": "199×49",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-row-forest.svg",
+     "ext": "svg",
+     "bytes": 1571,
+     "dimensions": "199×49",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-row-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1571,
+     "dimensions": "199×49",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-row-navy.svg",
+     "ext": "svg",
+     "bytes": 1571,
+     "dimensions": "199×49",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-bread-row-cream.svg",
+     "ext": "svg",
+     "bytes": 1571,
+     "dimensions": "199×49",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-bread-row.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-burst",
+   "name": "burst",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-burst.svg",
+     "ext": "svg",
+     "bytes": 2489,
+     "dimensions": "154×123",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-burst-forest.svg",
+     "ext": "svg",
+     "bytes": 2484,
+     "dimensions": "154×123",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-burst-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2484,
+     "dimensions": "154×123",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-burst-navy.svg",
+     "ext": "svg",
+     "bytes": 2484,
+     "dimensions": "154×123",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-burst-cream.svg",
+     "ext": "svg",
+     "bytes": 2484,
+     "dimensions": "154×123",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-burst.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-chili",
+   "name": "chili",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-chili.svg",
+     "ext": "svg",
+     "bytes": 1150,
+     "dimensions": "253×72",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-chili-forest.svg",
+     "ext": "svg",
+     "bytes": 1145,
+     "dimensions": "253×72",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-chili-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1145,
+     "dimensions": "253×72",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-chili-navy.svg",
+     "ext": "svg",
+     "bytes": 1145,
+     "dimensions": "253×72",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-chili-cream.svg",
+     "ext": "svg",
+     "bytes": 1145,
+     "dimensions": "253×72",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-chili.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-cook-scene",
+   "name": "cookScene",
+   "category": "illustration",
+   "group": "field",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-cook-scene.svg",
+     "ext": "svg",
+     "bytes": 19288,
+     "dimensions": "357×395",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-cook-scene-forest.svg",
+     "ext": "svg",
+     "bytes": 19283,
+     "dimensions": "357×395",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-cook-scene-terracotta.svg",
+     "ext": "svg",
+     "bytes": 19283,
+     "dimensions": "357×395",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-cook-scene-navy.svg",
+     "ext": "svg",
+     "bytes": 19283,
+     "dimensions": "357×395",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-cook-scene-cream.svg",
+     "ext": "svg",
+     "bytes": 19283,
+     "dimensions": "357×395",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-cook-scene.svg",
+   "usage": "Belongs on its own product's pages only — do not swap COOK and HEAL",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-droplets",
+   "name": "droplets",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-droplets.svg",
+     "ext": "svg",
+     "bytes": 2933,
+     "dimensions": "155×144",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-droplets-forest.svg",
+     "ext": "svg",
+     "bytes": 2928,
+     "dimensions": "155×144",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-droplets-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2928,
+     "dimensions": "155×144",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-droplets-navy.svg",
+     "ext": "svg",
+     "bytes": 2928,
+     "dimensions": "155×144",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-droplets-cream.svg",
+     "ext": "svg",
+     "bytes": 2928,
+     "dimensions": "155×144",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-droplets.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-egg-fried",
+   "name": "eggFried",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-egg-fried.svg",
+     "ext": "svg",
+     "bytes": 2465,
+     "dimensions": "196×125",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-fried-forest.svg",
+     "ext": "svg",
+     "bytes": 2460,
+     "dimensions": "196×125",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-fried-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2460,
+     "dimensions": "196×125",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-fried-navy.svg",
+     "ext": "svg",
+     "bytes": 2460,
+     "dimensions": "196×125",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-fried-cream.svg",
+     "ext": "svg",
+     "bytes": 2460,
+     "dimensions": "196×125",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-egg-fried.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-egg-in-pan",
+   "name": "eggInPan",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-egg-in-pan.svg",
+     "ext": "svg",
+     "bytes": 1784,
+     "dimensions": "183×121",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-in-pan-forest.svg",
+     "ext": "svg",
+     "bytes": 1779,
+     "dimensions": "183×121",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-in-pan-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1779,
+     "dimensions": "183×121",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-in-pan-navy.svg",
+     "ext": "svg",
+     "bytes": 1779,
+     "dimensions": "183×121",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-egg-in-pan-cream.svg",
+     "ext": "svg",
+     "bytes": 1779,
+     "dimensions": "183×121",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-egg-in-pan.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-figure-seated",
+   "name": "figureSeated",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-figure-seated.svg",
+     "ext": "svg",
+     "bytes": 1029,
+     "dimensions": "158×132",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-figure-seated-forest.svg",
+     "ext": "svg",
+     "bytes": 1024,
+     "dimensions": "158×132",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-figure-seated-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1024,
+     "dimensions": "158×132",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-figure-seated-navy.svg",
+     "ext": "svg",
+     "bytes": 1024,
+     "dimensions": "158×132",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-figure-seated-cream.svg",
+     "ext": "svg",
+     "bytes": 1024,
+     "dimensions": "158×132",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-figure-seated.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-flame",
+   "name": "flame",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-flame.svg",
+     "ext": "svg",
+     "bytes": 1786,
+     "dimensions": "101×141",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-flame-forest.svg",
+     "ext": "svg",
+     "bytes": 1781,
+     "dimensions": "101×141",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-flame-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1781,
+     "dimensions": "101×141",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-flame-navy.svg",
+     "ext": "svg",
+     "bytes": 1781,
+     "dimensions": "101×141",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-flame-cream.svg",
+     "ext": "svg",
+     "bytes": 1781,
+     "dimensions": "101×141",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-flame.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-globe",
+   "name": "globe",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-globe.svg",
+     "ext": "svg",
+     "bytes": 3234,
+     "dimensions": "197×153",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-globe-forest.svg",
+     "ext": "svg",
+     "bytes": 3229,
+     "dimensions": "197×153",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-globe-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3229,
+     "dimensions": "197×153",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-globe-navy.svg",
+     "ext": "svg",
+     "bytes": 3229,
+     "dimensions": "197×153",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-globe-cream.svg",
+     "ext": "svg",
+     "bytes": 3229,
+     "dimensions": "197×153",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-globe.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-grain-scatter",
+   "name": "grainScatter",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-grain-scatter.svg",
+     "ext": "svg",
+     "bytes": 5419,
+     "dimensions": "167×151",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-grain-scatter-forest.svg",
+     "ext": "svg",
+     "bytes": 5414,
+     "dimensions": "167×151",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-grain-scatter-terracotta.svg",
+     "ext": "svg",
+     "bytes": 5414,
+     "dimensions": "167×151",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-grain-scatter-navy.svg",
+     "ext": "svg",
+     "bytes": 5414,
+     "dimensions": "167×151",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-grain-scatter-cream.svg",
+     "ext": "svg",
+     "bytes": 5414,
+     "dimensions": "167×151",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-grain-scatter.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-gut-health",
+   "name": "gutHealth",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-gut-health.svg",
+     "ext": "svg",
+     "bytes": 3575,
+     "dimensions": "28×32",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-health-forest.svg",
+     "ext": "svg",
+     "bytes": 3573,
+     "dimensions": "28×32",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-health-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3573,
+     "dimensions": "28×32",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-health-navy.svg",
+     "ext": "svg",
+     "bytes": 3573,
+     "dimensions": "28×32",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-health-cream.svg",
+     "ext": "svg",
+     "bytes": 3573,
+     "dimensions": "28×32",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-gut-health.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-gut",
+   "name": "gut",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-gut.svg",
+     "ext": "svg",
+     "bytes": 2254,
+     "dimensions": "173×89",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-forest.svg",
+     "ext": "svg",
+     "bytes": 2249,
+     "dimensions": "173×89",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2249,
+     "dimensions": "173×89",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-navy.svg",
+     "ext": "svg",
+     "bytes": 2249,
+     "dimensions": "173×89",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-gut-cream.svg",
+     "ext": "svg",
+     "bytes": 2249,
+     "dimensions": "173×89",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-gut.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-head",
+   "name": "head",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-head.svg",
+     "ext": "svg",
+     "bytes": 1630,
+     "dimensions": "106×124",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-head-forest.svg",
+     "ext": "svg",
+     "bytes": 1625,
+     "dimensions": "106×124",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-head-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1625,
+     "dimensions": "106×124",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-head-navy.svg",
+     "ext": "svg",
+     "bytes": 1625,
+     "dimensions": "106×124",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-head-cream.svg",
+     "ext": "svg",
+     "bytes": 1625,
+     "dimensions": "106×124",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-head.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-heal-scene",
+   "name": "healScene",
+   "category": "illustration",
+   "group": "field",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-heal-scene.svg",
+     "ext": "svg",
+     "bytes": 14944,
+     "dimensions": "321×408",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-heal-scene-forest.svg",
+     "ext": "svg",
+     "bytes": 14939,
+     "dimensions": "321×408",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-heal-scene-terracotta.svg",
+     "ext": "svg",
+     "bytes": 14939,
+     "dimensions": "321×408",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-heal-scene-navy.svg",
+     "ext": "svg",
+     "bytes": 14939,
+     "dimensions": "321×408",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-heal-scene-cream.svg",
+     "ext": "svg",
+     "bytes": 14939,
+     "dimensions": "321×408",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-heal-scene.svg",
+   "usage": "Belongs on its own product's pages only — do not swap COOK and HEAL",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-heart",
+   "name": "heart",
+   "category": "illustration",
+   "group": "body",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-heart.svg",
+     "ext": "svg",
+     "bytes": 1549,
+     "dimensions": "154×113",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-heart-forest.svg",
+     "ext": "svg",
+     "bytes": 1544,
+     "dimensions": "154×113",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-heart-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1544,
+     "dimensions": "154×113",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-heart-navy.svg",
+     "ext": "svg",
+     "bytes": 1544,
+     "dimensions": "154×113",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-heart-cream.svg",
+     "ext": "svg",
+     "bytes": 1544,
+     "dimensions": "154×113",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-heart.svg",
+   "usage": "The Daily Ritual and the science — gut and head beside a mechanism claim, heart only where the copy is about practice",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-herbs",
+   "name": "herbs",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-herbs.svg",
+     "ext": "svg",
+     "bytes": 3430,
+     "dimensions": "191×219",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-herbs-forest.svg",
+     "ext": "svg",
+     "bytes": 3425,
+     "dimensions": "191×219",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-herbs-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3425,
+     "dimensions": "191×219",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-herbs-navy.svg",
+     "ext": "svg",
+     "bytes": 3425,
+     "dimensions": "191×219",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-herbs-cream.svg",
+     "ext": "svg",
+     "bytes": 3425,
+     "dimensions": "191×219",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-herbs.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-kale",
+   "name": "kale",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-kale.svg",
+     "ext": "svg",
+     "bytes": 2396,
+     "dimensions": "110×237",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-kale-forest.svg",
+     "ext": "svg",
+     "bytes": 2391,
+     "dimensions": "110×237",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-kale-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2391,
+     "dimensions": "110×237",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-kale-navy.svg",
+     "ext": "svg",
+     "bytes": 2391,
+     "dimensions": "110×237",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-kale-cream.svg",
+     "ext": "svg",
+     "bytes": 2391,
+     "dimensions": "110×237",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-kale.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-ladle",
+   "name": "ladle",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-ladle.svg",
+     "ext": "svg",
+     "bytes": 1091,
+     "dimensions": "194×124",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-ladle-forest.svg",
+     "ext": "svg",
+     "bytes": 1086,
+     "dimensions": "194×124",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-ladle-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1086,
+     "dimensions": "194×124",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-ladle-navy.svg",
+     "ext": "svg",
+     "bytes": 1086,
+     "dimensions": "194×124",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-ladle-cream.svg",
+     "ext": "svg",
+     "bytes": 1086,
+     "dimensions": "194×124",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-ladle.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-leaf-veined",
+   "name": "leafVeined",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-leaf-veined.svg",
+     "ext": "svg",
+     "bytes": 3907,
+     "dimensions": "205×157",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-veined-forest.svg",
+     "ext": "svg",
+     "bytes": 3902,
+     "dimensions": "205×157",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-veined-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3902,
+     "dimensions": "205×157",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-veined-navy.svg",
+     "ext": "svg",
+     "bytes": 3902,
+     "dimensions": "205×157",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-veined-cream.svg",
+     "ext": "svg",
+     "bytes": 3902,
+     "dimensions": "205×157",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-leaf-veined.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-leaf",
+   "name": "leaf",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-leaf.svg",
+     "ext": "svg",
+     "bytes": 1479,
+     "dimensions": "197×113",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-forest.svg",
+     "ext": "svg",
+     "bytes": 1474,
+     "dimensions": "197×113",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1474,
+     "dimensions": "197×113",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-navy.svg",
+     "ext": "svg",
+     "bytes": 1474,
+     "dimensions": "197×113",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-leaf-cream.svg",
+     "ext": "svg",
+     "bytes": 1474,
+     "dimensions": "197×113",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-leaf.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-oil-drip",
+   "name": "oilDrip",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-oil-drip.svg",
+     "ext": "svg",
+     "bytes": 983,
+     "dimensions": "148×115",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-drip-forest.svg",
+     "ext": "svg",
+     "bytes": 978,
+     "dimensions": "148×115",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-drip-terracotta.svg",
+     "ext": "svg",
+     "bytes": 978,
+     "dimensions": "148×115",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-drip-navy.svg",
+     "ext": "svg",
+     "bytes": 978,
+     "dimensions": "148×115",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-drip-cream.svg",
+     "ext": "svg",
+     "bytes": 978,
+     "dimensions": "148×115",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-oil-drip.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-oil-pool",
+   "name": "oilPool",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-oil-pool.svg",
+     "ext": "svg",
+     "bytes": 715,
+     "dimensions": "119×78",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-pool-forest.svg",
+     "ext": "svg",
+     "bytes": 710,
+     "dimensions": "119×78",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-pool-terracotta.svg",
+     "ext": "svg",
+     "bytes": 710,
+     "dimensions": "119×78",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-pool-navy.svg",
+     "ext": "svg",
+     "bytes": 710,
+     "dimensions": "119×78",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-pool-cream.svg",
+     "ext": "svg",
+     "bytes": 710,
+     "dimensions": "119×78",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-oil-pool.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-oil-puddle",
+   "name": "oilPuddle",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-oil-puddle.svg",
+     "ext": "svg",
+     "bytes": 3126,
+     "dimensions": "239×116",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-puddle-forest.svg",
+     "ext": "svg",
+     "bytes": 3121,
+     "dimensions": "239×116",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-puddle-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3121,
+     "dimensions": "239×116",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-puddle-navy.svg",
+     "ext": "svg",
+     "bytes": 3121,
+     "dimensions": "239×116",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-puddle-cream.svg",
+     "ext": "svg",
+     "bytes": 3121,
+     "dimensions": "239×116",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-oil-puddle.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-oil-ring",
+   "name": "oilRing",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-oil-ring.svg",
+     "ext": "svg",
+     "bytes": 1963,
+     "dimensions": "158×105",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-ring-forest.svg",
+     "ext": "svg",
+     "bytes": 1958,
+     "dimensions": "158×105",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-ring-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1958,
+     "dimensions": "158×105",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-ring-navy.svg",
+     "ext": "svg",
+     "bytes": 1958,
+     "dimensions": "158×105",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-ring-cream.svg",
+     "ext": "svg",
+     "bytes": 1958,
+     "dimensions": "158×105",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-oil-ring.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-oil-splash",
+   "name": "oilSplash",
+   "category": "illustration",
+   "group": "oil",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-oil-splash.svg",
+     "ext": "svg",
+     "bytes": 2168,
+     "dimensions": "157×112",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-splash-forest.svg",
+     "ext": "svg",
+     "bytes": 2163,
+     "dimensions": "157×112",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-splash-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2163,
+     "dimensions": "157×112",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-splash-navy.svg",
+     "ext": "svg",
+     "bytes": 2163,
+     "dimensions": "157×112",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-oil-splash-cream.svg",
+     "ext": "svg",
+     "bytes": 2163,
+     "dimensions": "157×112",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-oil-splash.svg",
+   "usage": "Provenance and the oil itself — pour copy, product detail",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-olive-pip",
+   "name": "olivePip",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-olive-pip.svg",
+     "ext": "svg",
+     "bytes": 9809,
+     "dimensions": "374×423",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-pip-forest.svg",
+     "ext": "svg",
+     "bytes": 9804,
+     "dimensions": "374×423",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-pip-terracotta.svg",
+     "ext": "svg",
+     "bytes": 9804,
+     "dimensions": "374×423",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-pip-navy.svg",
+     "ext": "svg",
+     "bytes": 9804,
+     "dimensions": "374×423",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-pip-cream.svg",
+     "ext": "svg",
+     "bytes": 9804,
+     "dimensions": "374×423",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-olive-pip.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-olive",
+   "name": "olive",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-olive.svg",
+     "ext": "svg",
+     "bytes": 1095,
+     "dimensions": "123×139",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-forest.svg",
+     "ext": "svg",
+     "bytes": 1090,
+     "dimensions": "123×139",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-terracotta.svg",
+     "ext": "svg",
+     "bytes": 1090,
+     "dimensions": "123×139",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-navy.svg",
+     "ext": "svg",
+     "bytes": 1090,
+     "dimensions": "123×139",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-olive-cream.svg",
+     "ext": "svg",
+     "bytes": 1090,
+     "dimensions": "123×139",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-olive.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-pan",
+   "name": "pan",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-pan.svg",
+     "ext": "svg",
+     "bytes": 3663,
+     "dimensions": "177×141",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-pan-forest.svg",
+     "ext": "svg",
+     "bytes": 3658,
+     "dimensions": "177×141",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-pan-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3658,
+     "dimensions": "177×141",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-pan-navy.svg",
+     "ext": "svg",
+     "bytes": 3658,
+     "dimensions": "177×141",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-pan-cream.svg",
+     "ext": "svg",
+     "bytes": 3658,
+     "dimensions": "177×141",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-pan.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-pattern-dense",
+   "name": "patternDense",
+   "category": "illustration",
+   "group": "field",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-pattern-dense.svg",
+     "ext": "svg",
+     "bytes": 11501,
+     "dimensions": "341×427",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-pattern-dense-forest.svg",
+     "ext": "svg",
+     "bytes": 11496,
+     "dimensions": "341×427",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-pattern-dense-terracotta.svg",
+     "ext": "svg",
+     "bytes": 11496,
+     "dimensions": "341×427",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-pattern-dense-navy.svg",
+     "ext": "svg",
+     "bytes": 11496,
+     "dimensions": "341×427",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-pattern-dense-cream.svg",
+     "ext": "svg",
+     "bytes": 11496,
+     "dimensions": "341×427",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-pattern-dense.svg",
+   "usage": "Background tile only — capped at 8% opacity",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Hard cap 8% opacity as texture",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-pour-waves",
+   "name": "pourWaves",
+   "category": "illustration",
+   "group": "field",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-pour-waves.svg",
+     "ext": "svg",
+     "bytes": 7555,
+     "dimensions": "294×406",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-pour-waves-forest.svg",
+     "ext": "svg",
+     "bytes": 7550,
+     "dimensions": "294×406",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-pour-waves-terracotta.svg",
+     "ext": "svg",
+     "bytes": 7550,
+     "dimensions": "294×406",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-pour-waves-navy.svg",
+     "ext": "svg",
+     "bytes": 7550,
+     "dimensions": "294×406",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-pour-waves-cream.svg",
+     "ext": "svg",
+     "bytes": 7550,
+     "dimensions": "294×406",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-pour-waves.svg",
+   "usage": "Background tile only — capped at 8% opacity",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Hard cap 8% opacity as texture",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-rule",
+   "name": "rule",
+   "category": "illustration",
+   "group": "field",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-rule.svg",
+     "ext": "svg",
+     "bytes": 210,
+     "dimensions": "4×2",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-rule-forest.svg",
+     "ext": "svg",
+     "bytes": 205,
+     "dimensions": "4×2",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-rule-terracotta.svg",
+     "ext": "svg",
+     "bytes": 205,
+     "dimensions": "4×2",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-rule-navy.svg",
+     "ext": "svg",
+     "bytes": 205,
+     "dimensions": "4×2",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-rule-cream.svg",
+     "ext": "svg",
+     "bytes": 205,
+     "dimensions": "4×2",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-rule.svg",
+   "usage": "Compositions and background fields",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-smoke-ribbon",
+   "name": "smokeRibbon",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-smoke-ribbon.svg",
+     "ext": "svg",
+     "bytes": 2865,
+     "dimensions": "123×164",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-smoke-ribbon-forest.svg",
+     "ext": "svg",
+     "bytes": 2860,
+     "dimensions": "123×164",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-smoke-ribbon-terracotta.svg",
+     "ext": "svg",
+     "bytes": 2860,
+     "dimensions": "123×164",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-smoke-ribbon-navy.svg",
+     "ext": "svg",
+     "bytes": 2860,
+     "dimensions": "123×164",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-smoke-ribbon-cream.svg",
+     "ext": "svg",
+     "bytes": 2860,
+     "dimensions": "123×164",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-smoke-ribbon.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-sprig",
+   "name": "sprig",
+   "category": "illustration",
+   "group": "botanical",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-sprig.svg",
+     "ext": "svg",
+     "bytes": 3718,
+     "dimensions": "321×140",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-sprig-forest.svg",
+     "ext": "svg",
+     "bytes": 3713,
+     "dimensions": "321×140",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-sprig-terracotta.svg",
+     "ext": "svg",
+     "bytes": 3713,
+     "dimensions": "321×140",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-sprig-navy.svg",
+     "ext": "svg",
+     "bytes": 3713,
+     "dimensions": "321×140",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-sprig-cream.svg",
+     "ext": "svg",
+     "bytes": 3713,
+     "dimensions": "321×140",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-sprig.svg",
+   "usage": "Provenance — harvest copy, the standards block, the polyphenol explainer",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-still-life",
+   "name": "stillLife",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-still-life.svg",
+     "ext": "svg",
+     "bytes": 5538,
+     "dimensions": "192×217",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-still-life-forest.svg",
+     "ext": "svg",
+     "bytes": 5533,
+     "dimensions": "192×217",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-still-life-terracotta.svg",
+     "ext": "svg",
+     "bytes": 5533,
+     "dimensions": "192×217",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-still-life-navy.svg",
+     "ext": "svg",
+     "bytes": 5533,
+     "dimensions": "192×217",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-still-life-cream.svg",
+     "ext": "svg",
+     "bytes": 5533,
+     "dimensions": "192×217",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-still-life.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "mark-tangle",
+   "name": "tangle",
+   "category": "illustration",
+   "group": "table",
+   "formats": [
+    {
+     "path": "assets/illustrations/mark-tangle.svg",
+     "ext": "svg",
+     "bytes": 16906,
+     "dimensions": "211×168",
+     "colour": "currentColor"
+    },
+    {
+     "path": "assets/illustrations/mark-tangle-forest.svg",
+     "ext": "svg",
+     "bytes": 16901,
+     "dimensions": "211×168",
+     "colour": "Forest"
+    },
+    {
+     "path": "assets/illustrations/mark-tangle-terracotta.svg",
+     "ext": "svg",
+     "bytes": 16901,
+     "dimensions": "211×168",
+     "colour": "Terracotta"
+    },
+    {
+     "path": "assets/illustrations/mark-tangle-navy.svg",
+     "ext": "svg",
+     "bytes": 16901,
+     "dimensions": "211×168",
+     "colour": "Navy"
+    },
+    {
+     "path": "assets/illustrations/mark-tangle-cream.svg",
+     "ext": "svg",
+     "bytes": 16901,
+     "dimensions": "211×168",
+     "colour": "Cream"
+    }
+   ],
+   "preview": "assets/illustrations/mark-tangle.svg",
+   "usage": "The Culinary Ritual — recipes, COOK merchandising, the shared table",
+   "restrictions": [
+    "currentColor, one color, no strokes, no internal palette",
+    "One subject per frame — no scene-building from two marks",
+    "No mark inside a circle",
+    "Minimum breathing room is one mark-width",
+    "Below 24px use an icon instead"
+   ],
+   "minSize": "40px in UI (any size in print)",
+   "license": "Zimms Organics proprietary illustration",
+   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
+  },
+  {
+   "id": "icons-phosphor",
+   "name": "Phosphor UI icon set",
+   "category": "icon",
+   "formats": [
+    {
+     "path": "assets/icons/icon-data.js",
+     "ext": "js",
+     "bytes": 143483,
+     "dimensions": "32×32 grid"
+    }
+   ],
+   "preview": null,
+   "usage": "14 families × 4 weights (Light / Regular / Bold / Fill), Outline format. 28px Light in nav, 24px Regular inline, 18–20px in dense rows, 12px Fill for the verified-buyer tick.",
+   "restrictions": [
+    "Icons take currentColor — never a second color",
+    "Outline format only: Stroke, Duotone and Thin are not in the system"
+   ],
+   "minSize": "12px (Fill only)",
+   "license": "Phosphor Icons — MIT"
+  },
+  {
+   "id": "icon-star",
+   "name": "Rating star",
+   "category": "icon",
+   "formats": [
+    {
+     "path": "assets/icons/star.svg",
+     "ext": "svg",
+     "bytes": 736,
+     "dimensions": "18×18"
+    }
+   ],
+   "preview": "assets/icons/star.svg",
+   "usage": "Star ratings, filled in Harvest Gold",
+   "restrictions": [
+    "Harvest Gold fill only"
+   ],
+   "minSize": "12px",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "icons-payment",
+   "name": "Payment method marks",
+   "category": "icon",
+   "formats": [
+    {
+     "path": "assets/icons/payment-methods.png",
+     "ext": "png",
+     "bytes": 61362,
+     "dimensions": "340×348"
+    }
+   ],
+   "preview": "assets/icons/payment-methods.png",
+   "usage": "The payment strip in the footer",
+   "restrictions": [
+    "Never recolor a card network mark",
+    "Reproduce as supplied, at or above 24px"
+   ],
+   "minSize": "24px",
+   "license": "Card network trademarks — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-badge-4",
+   "name": "USDA Organic",
+   "category": "trust",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/trust/badge-4.png",
+     "ext": "png",
+     "bytes": 34968,
+     "dimensions": "200×202"
+    }
+   ],
+   "preview": "assets/trust/badge-4.png",
+   "usage": "Mandatory on pack, PDP and ad creative",
+   "restrictions": [
+    "Never recolor a certifier's mark",
+    "Clearspace is half the mark's height",
+    "Supplied as a Bone silhouette — place on Forest, Navy or Terracotta"
+   ],
+   "minSize": "32px digital / 10mm print",
+   "license": "Certifier trademark — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-badge-2",
+   "name": "Single Origin (SO)",
+   "category": "trust",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/trust/badge-2.png",
+     "ext": "png",
+     "bytes": 29262,
+     "dimensions": "200×200"
+    }
+   ],
+   "preview": "assets/trust/badge-2.png",
+   "usage": "Mandatory on pack, PDP and ad creative",
+   "restrictions": [
+    "Never recolor a certifier's mark",
+    "Clearspace is half the mark's height",
+    "Supplied as a Bone silhouette — place on Forest, Navy or Terracotta"
+   ],
+   "minSize": "32px digital / 10mm print",
+   "license": "Certifier trademark — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-badge-3",
+   "name": "Single Varietal (SV)",
+   "category": "trust",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/trust/badge-3.png",
+     "ext": "png",
+     "bytes": 29524,
+     "dimensions": "200×200"
+    }
+   ],
+   "preview": "assets/trust/badge-3.png",
+   "usage": "Mandatory on pack, PDP and ad creative",
+   "restrictions": [
+    "Never recolor a certifier's mark",
+    "Clearspace is half the mark's height",
+    "Supplied as a Bone silhouette — place on Forest, Navy or Terracotta"
+   ],
+   "minSize": "32px digital / 10mm print",
+   "license": "Certifier trademark — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-badge-1",
+   "name": "Proudly Grown in California",
+   "category": "trust",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/trust/badge-1.png",
+     "ext": "png",
+     "bytes": 22623,
+     "dimensions": "200×209"
+    }
+   ],
+   "preview": "assets/trust/badge-1.png",
+   "usage": "Mandatory on pack, PDP and ad creative",
+   "restrictions": [
+    "Never recolor a certifier's mark",
+    "Clearspace is half the mark's height",
+    "Supplied as a Bone silhouette — place on Forest, Navy or Terracotta"
+   ],
+   "minSize": "32px digital / 10mm print",
+   "license": "Certifier trademark — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-ccof",
+   "name": "CCOF Certified Organic",
+   "category": "trust",
+   "restricted": true,
+   "supplied": false,
+   "formats": [],
+   "preview": null,
+   "usage": "Mandatory on pack, PDP and ad creative",
+   "restrictions": [
+    "Never recolor a certifier's mark",
+    "Clearspace is half the mark's height",
+    "Request the master file from the brand — do not rebuild it"
+   ],
+   "minSize": "32px digital / 10mm print",
+   "license": "CCOF trademark — reproduction only, no alteration"
+  },
+  {
+   "id": "trust-usp-grid",
+   "name": "USP icon grid",
+   "category": "trust",
+   "formats": [
+    {
+     "path": "assets/trust/usp-icon-grid.png",
+     "ext": "png",
+     "bytes": 403710,
+     "dimensions": "1536×1024"
+    }
+   ],
+   "preview": "assets/trust/usp-icon-grid.png",
+   "usage": "The six credential marks used in the trust bar",
+   "restrictions": [
+    "Bone or Cream on a dark ground"
+   ],
+   "minSize": "32px per mark",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "font-novecentosanswide-demibold",
+   "name": "Novecento Sans Wide DemiBold",
+   "category": "font",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/fonts/Novecentosanswide-DemiBold.otf",
+     "ext": "otf",
+     "bytes": 77948,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "Pack display type — print track only, never for web UI",
+   "restrictions": [
+    "Licensed font binary — print track only",
+    "Never for web UI or email",
+    "Do not redistribute outside approved Zimms work"
+   ],
+   "minSize": "—",
+   "license": "Foundry licence held by Zimms Organics"
+  },
+  {
+   "id": "font-national-book",
+   "name": "National Book",
+   "category": "font",
+   "restricted": true,
+   "formats": [
+    {
+     "path": "assets/fonts/National-Book.otf",
+     "ext": "otf",
+     "bytes": 199072,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "Pack body copy — print track only, never for web UI",
+   "restrictions": [
+    "Licensed font binary — print track only",
+    "Never for web UI or email",
+    "Do not redistribute outside approved Zimms work"
+   ],
+   "minSize": "—",
+   "license": "Foundry licence held by Zimms Organics"
+  },
+  {
+   "id": "token-colors",
+   "name": "colors.css",
+   "category": "tokens",
+   "formats": [
+    {
+     "path": "assets/tokens/colors.css",
+     "ext": "css",
+     "bytes": 3915,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "Every color token, ramp and alias",
+   "restrictions": [
+    "Do not add values — derive from the 8-point scale"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "token-typography",
+   "name": "typography.css",
+   "category": "tokens",
+   "formats": [
+    {
+     "path": "assets/tokens/typography.css",
+     "ext": "css",
+     "bytes": 5105,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "Both type tracks, the scale, tracking and measure",
+   "restrictions": [
+    "Do not add values — derive from the 8-point scale"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "token-spacing",
+   "name": "spacing.css",
+   "category": "tokens",
+   "formats": [
+    {
+     "path": "assets/tokens/spacing.css",
+     "ext": "css",
+     "bytes": 3053,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "8-point scale, grid, radii, elevation, motion",
+   "restrictions": [
+    "Do not add values — derive from the 8-point scale"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "token-json",
+   "name": "tokens.json",
+   "category": "tokens",
+   "formats": [
+    {
+     "path": "assets/tokens/tokens.json",
+     "ext": "json",
+     "bytes": 3739,
+     "dimensions": "—"
+    }
+   ],
+   "preview": null,
+   "usage": "Machine-readable token set for build pipelines",
+   "restrictions": [
+    "Do not add values"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "token-ase",
+   "name": "Zimms palette (.ase)",
+   "category": "tokens",
+   "formats": [
+    {
+     "path": "assets/tokens/zimms-organics.ase",
+     "ext": "ase",
+     "bytes": 1006,
+     "dimensions": "21 swatches"
+    }
+   ],
+   "preview": null,
+   "usage": "Adobe swatch exchange — the digital hex palette for Illustrator, InDesign and Photoshop",
+   "restrictions": [
+    "Hex is the digital system. Pantone is the print system. They are equivalents, not conversions."
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "doc-summary",
+   "name": "One-page brand summary (PDF)",
+   "category": "tokens",
+   "supplied": false,
+   "formats": [],
+   "preview": null,
+   "usage": "Print this site — the print stylesheet produces the one-page reference",
+   "restrictions": [
+    "Generated from the site, not a separate file"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics design system"
+  },
+  {
+   "id": "photo-hand-cook-close",
+   "name": "COOK at the ear, close",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-cook-close.jpg",
+     "ext": "jpg",
+     "bytes": 1451798,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-cook-close.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-cook-portrait",
+   "name": "COOK held, eyes to camera",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-cook-portrait.jpg",
+     "ext": "jpg",
+     "bytes": 1482371,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-cook-portrait.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-cook-standing",
+   "name": "COOK held, full figure",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-cook-standing.jpg",
+     "ext": "jpg",
+     "bytes": 1299756,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-cook-standing.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-healplus-close",
+   "name": "HEAL+ front, shallow depth",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-healplus-close.jpg",
+     "ext": "jpg",
+     "bytes": 1325806,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-healplus-close.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-navy-ear",
+   "name": "HEAL+ at the ear",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-navy-ear.jpg",
+     "ext": "jpg",
+     "bytes": 2241144,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-navy-ear.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-navy-flare",
+   "name": "HEAL+ through flare",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-navy-flare.jpg",
+     "ext": "jpg",
+     "bytes": 2399706,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-navy-flare.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-three-hold",
+   "name": "All three, held low",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-three-hold.jpg",
+     "ext": "jpg",
+     "bytes": 1244228,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-three-hold.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-three-smile",
+   "name": "All three, offered",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-three-smile.jpg",
+     "ext": "jpg",
+     "bytes": 1281291,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/hand-three-smile.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-grid-golden",
+   "name": "Ranked rows, low sun",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-grid-golden.jpg",
+     "ext": "jpg",
+     "bytes": 1650925,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-grid-golden.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-grid-neutral",
+   "name": "Ranked rows, neutral",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-grid-neutral.jpg",
+     "ext": "jpg",
+     "bytes": 1402370,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-grid-neutral.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-grid-warm",
+   "name": "Ranked rows, warm",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-grid-warm.jpg",
+     "ext": "jpg",
+     "bytes": 1866069,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-grid-warm.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-scatter-close",
+   "name": "Scattered, close",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-scatter-close.jpg",
+     "ext": "jpg",
+     "bytes": 1947447,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-scatter-close.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-scatter-wide",
+   "name": "Scattered, wide",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-scatter-wide.jpg",
+     "ext": "jpg",
+     "bytes": 1393718,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-scatter-wide.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-minis-scatter",
+   "name": "Scattered, flat ground",
+   "category": "photography",
+   "group": "the set repeated",
+   "formats": [
+    {
+     "path": "assets/photography/style/minis-scatter.jpg",
+     "ext": "jpg",
+     "bytes": 1590410,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/minis-scatter.jpg",
+   "usage": "March 2026 shoot · subject: the set repeated. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-cook-front",
+   "name": "COOK, front of pack",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-cook-front.jpg",
+     "ext": "jpg",
+     "bytes": 1476962,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-cook-front.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-cook-illustration",
+   "name": "COOK, illustration side",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-cook-illustration.jpg",
+     "ext": "jpg",
+     "bytes": 1383137,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-cook-illustration.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-heal-green",
+   "name": "HEAL, front of pack",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-heal-green.jpg",
+     "ext": "jpg",
+     "bytes": 1277769,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-heal-green.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-heal-illustration",
+   "name": "HEAL, illustration side",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-heal-illustration.jpg",
+     "ext": "jpg",
+     "bytes": 1452330,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-heal-illustration.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-healplus-back",
+   "name": "HEAL+, standards panel",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-healplus-back.jpg",
+     "ext": "jpg",
+     "bytes": 1642438,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-healplus-back.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-healplus-front",
+   "name": "HEAL+, front of pack",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-healplus-front.jpg",
+     "ext": "jpg",
+     "bytes": 1526635,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-healplus-front.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-healplus-illustration",
+   "name": "HEAL+, illustration side",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-healplus-illustration.jpg",
+     "ext": "jpg",
+     "bytes": 1331099,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-healplus-illustration.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-pourers",
+   "name": "Pourers on a green ground",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-pourers.jpg",
+     "ext": "jpg",
+     "bytes": 1245760,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/pack-pourers.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-portrait-close",
+   "name": "Close, warm sun",
+   "category": "photography",
+   "group": "people",
+   "formats": [
+    {
+     "path": "assets/photography/style/portrait-close.jpg",
+     "ext": "jpg",
+     "bytes": 1862505,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/portrait-close.jpg",
+   "usage": "March 2026 shoot · subject: people. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-portrait-cream-cap",
+   "name": "Cream cap, to camera",
+   "category": "photography",
+   "group": "people",
+   "formats": [
+    {
+     "path": "assets/photography/style/portrait-cream-cap.jpg",
+     "ext": "jpg",
+     "bytes": 2372545,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/portrait-cream-cap.jpg",
+   "usage": "March 2026 shoot · subject: people. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-portrait-smile",
+   "name": "Cream cap, smiling",
+   "category": "photography",
+   "group": "people",
+   "formats": [
+    {
+     "path": "assets/photography/style/portrait-smile.jpg",
+     "ext": "jpg",
+     "bytes": 1400520,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/portrait-smile.jpg",
+   "usage": "March 2026 shoot · subject: people. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-portrait-wall-shadow",
+   "name": "Wall shadow, seated",
+   "category": "photography",
+   "group": "people",
+   "formats": [
+    {
+     "path": "assets/photography/style/portrait-wall-shadow.jpg",
+     "ext": "jpg",
+     "bytes": 1452743,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/portrait-wall-shadow.jpg",
+   "usage": "March 2026 shoot · subject: people. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-portrait-window-light",
+   "name": "Window light, black tank",
+   "category": "photography",
+   "group": "people",
+   "formats": [
+    {
+     "path": "assets/photography/style/portrait-window-light.jpg",
+     "ext": "jpg",
+     "bytes": 2643914,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/portrait-window-light.jpg",
+   "usage": "March 2026 shoot · subject: people. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-backlit",
+   "name": "Minis backlit",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-backlit.jpg",
+     "ext": "jpg",
+     "bytes": 1759307,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-backlit.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-crouch",
+   "name": "Minis offered, seated",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-crouch.jpg",
+     "ext": "jpg",
+     "bytes": 1376960,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-crouch.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-cupped-white",
+   "name": "Cupped hands, white tee",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-cupped-white.jpg",
+     "ext": "jpg",
+     "bytes": 1604930,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-cupped-white.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-cupped",
+   "name": "Cupped hands, full",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-cupped.jpg",
+     "ext": "jpg",
+     "bytes": 1707834,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-cupped.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-offered",
+   "name": "Minis toward camera",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-offered.jpg",
+     "ext": "jpg",
+     "bytes": 1437605,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-offered.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-soft",
+   "name": "Minis, soft focus",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-soft.jpg",
+     "ext": "jpg",
+     "bytes": 1363726,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-soft.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-ritual-minis-warm",
+   "name": "Three minis, warm light",
+   "category": "photography",
+   "group": "the daily ritual",
+   "formats": [
+    {
+     "path": "assets/photography/style/ritual-minis-warm.jpg",
+     "ext": "jpg",
+     "bytes": 1503020,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/ritual-minis-warm.jpg",
+   "usage": "March 2026 shoot · subject: the daily ritual. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-mini-hold",
+   "name": "Mini held at the table",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-mini-hold.jpg",
+     "ext": "jpg",
+     "bytes": 1913777,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/table-mini-hold.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-navy-lift",
+   "name": "HEAL+ lifted from the table",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-navy-lift.jpg",
+     "ext": "jpg",
+     "bytes": 1841194,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/table-navy-lift.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-three-bottles",
+   "name": "Three bottles, table",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-three-bottles.jpg",
+     "ext": "jpg",
+     "bytes": 2272036,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/photography/style/table-three-bottles.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "pack-400ml-cook",
+   "name": "COOK 400ml label",
+   "category": "packaging",
+   "group": "400ml labels",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZimmsOrg_EVOO_400ml_COOK_Mock.pdf",
+     "ext": "pdf",
+     "bytes": 642319,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/400ml-cook.jpg",
+     "ext": "jpg",
+     "bytes": 51134,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/400ml-cook.jpg",
+   "usage": "Label artwork for 400ml labels. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-400ml-heal",
+   "name": "HEAL 400ml label",
+   "category": "packaging",
+   "group": "400ml labels",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZimmsOrg_EVOO_400ml_HEAL_2026_Mock.pdf",
+     "ext": "pdf",
+     "bytes": 661777,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/400ml-heal.jpg",
+     "ext": "jpg",
+     "bytes": 58814,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/400ml-heal.jpg",
+   "usage": "Label artwork for 400ml labels. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-400ml-healplus",
+   "name": "HEAL+ 400ml label",
+   "category": "packaging",
+   "group": "400ml labels",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZimmsOrg_EVOO_400ml_HEAL-PLUS_2026-Mock.pdf",
+     "ext": "pdf",
+     "bytes": 688475,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/400ml-healplus.jpg",
+     "ext": "jpg",
+     "bytes": 69133,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/400ml-healplus.jpg",
+   "usage": "Label artwork for 400ml labels. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-1gal-cook",
+   "name": "COOK 1 gallon",
+   "category": "packaging",
+   "group": "1 gallon",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZO_1Gal_cook.pdf",
+     "ext": "pdf",
+     "bytes": 925917,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/1gal-cook.jpg",
+     "ext": "jpg",
+     "bytes": 72577,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/1gal-cook.jpg",
+   "usage": "Label artwork for 1 gallon. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-1gal-heal",
+   "name": "HEAL 1 gallon",
+   "category": "packaging",
+   "group": "1 gallon",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZO_1Gal_heal.pdf",
+     "ext": "pdf",
+     "bytes": 925344,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/1gal-heal.jpg",
+     "ext": "jpg",
+     "bytes": 72851,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/1gal-heal.jpg",
+   "usage": "Label artwork for 1 gallon. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-1gal-healplus",
+   "name": "HEAL+ 1 gallon",
+   "category": "packaging",
+   "group": "1 gallon",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZO_1Gal_heal_plus.pdf",
+     "ext": "pdf",
+     "bytes": 934932,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/1gal-healplus.jpg",
+     "ext": "jpg",
+     "bytes": 81447,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/1gal-healplus.jpg",
+   "usage": "Label artwork for 1 gallon. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-infocard-general",
+   "name": "Info card — general",
+   "category": "packaging",
+   "group": "5×7 info cards",
+   "formats": [
+    {
+     "path": "assets/packaging/print/ZO_infocard_5x7_General_2026.pdf",
+     "ext": "pdf",
+     "bytes": 732053,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/infocard-general-front.jpg",
+     "ext": "jpg",
+     "bytes": 96870,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/infocard-general-front.jpg",
+   "usage": "Label artwork for 5×7 info cards. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-infocard-heal",
+   "name": "Info card — HEAL",
+   "category": "packaging",
+   "group": "5×7 info cards",
+   "formats": [
+    {
+     "path": "assets/packaging/print/Heal_ZO_infocard_5x7_2026.pdf",
+     "ext": "pdf",
+     "bytes": 593002,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/infocard-heal-front.jpg",
+     "ext": "jpg",
+     "bytes": 77777,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/infocard-heal-front.jpg",
+   "usage": "Label artwork for 5×7 info cards. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "pack-infocard-healplus",
+   "name": "Info card — HEAL+",
+   "category": "packaging",
+   "group": "5×7 info cards",
+   "formats": [
+    {
+     "path": "assets/packaging/print/HealPlus_ZO_infocard_5x7_2026.pdf",
+     "ext": "pdf",
+     "bytes": 617197,
+     "dimensions": ""
+    },
+    {
+     "path": "assets/packaging/print/infocard-healplus-front.jpg",
+     "ext": "jpg",
+     "bytes": 93684,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/print/infocard-healplus-front.jpg",
+   "usage": "Label artwork for 5×7 info cards. Three tiers: brand and ritual identity → product type → standards and credentials.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "Standards block never below 6pt",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-cook-pattern",
+   "name": "COOK pattern",
+   "category": "illustration",
+   "group": "product pattern",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/cook-pattern.svg",
+     "ext": "svg",
+     "bytes": 34222,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for COOK only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-cook-badge",
+   "name": "COOK badge",
+   "category": "illustration",
+   "group": "product badge",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/cook-badge.svg",
+     "ext": "svg",
+     "bytes": 22254,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for COOK only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-heal-pattern",
+   "name": "HEAL pattern",
+   "category": "illustration",
+   "group": "product pattern",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/heal-pattern.svg",
+     "ext": "svg",
+     "bytes": 37127,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for HEAL only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-heal-badge",
+   "name": "HEAL badge",
+   "category": "illustration",
+   "group": "product badge",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/heal-badge.svg",
+     "ext": "svg",
+     "bytes": 22218,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for HEAL only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-heal-plus-pattern",
+   "name": "HEAL+ pattern",
+   "category": "illustration",
+   "group": "product pattern",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/heal-plus-pattern.svg",
+     "ext": "svg",
+     "bytes": 40504,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for HEAL+ only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "mark-heal-plus-badge",
+   "name": "HEAL+ badge",
+   "category": "illustration",
+   "group": "product badge",
+   "formats": [
+    {
+     "path": "assets/illustrations/product/heal-plus-badge.svg",
+     "ext": "svg",
+     "bytes": 21273,
+     "dimensions": "",
+     "colour": "unfilled silhouette"
+    }
+   ],
+   "preview": "",
+   "usage": "Pack device for HEAL+ only. Bone on the product color, or the product color on Cream.",
+   "restrictions": [
+    "A product's pattern belongs on that product only — never swapped",
+    "Never two marks in one frame",
+    "Set the fill where you place it; the file ships unfilled"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "card-cook",
+   "name": "COOK product card",
+   "category": "packaging",
+   "group": "product cards",
+   "formats": [
+    {
+     "path": "assets/packaging/card-cook.png",
+     "ext": "png",
+     "bytes": 49488,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/card-cook.png",
+   "usage": "Product card artwork — pattern, product name and the standards block.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "card-heal",
+   "name": "HEAL product card",
+   "category": "packaging",
+   "group": "product cards",
+   "formats": [
+    {
+     "path": "assets/packaging/card-heal.png",
+     "ext": "png",
+     "bytes": 51415,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/card-heal.png",
+   "usage": "Product card artwork — pattern, product name and the standards block.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "card-healplus",
+   "name": "HEAL+ product card",
+   "category": "packaging",
+   "group": "product cards",
+   "formats": [
+    {
+     "path": "assets/packaging/card-healplus.png",
+     "ext": "png",
+     "bytes": 51478,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/card-healplus.png",
+   "usage": "Product card artwork — pattern, product name and the standards block.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "visual-cook-01",
+   "name": "COOK — front of pack on Terracotta",
+   "category": "packaging",
+   "group": "packaging visuals",
+   "formats": [
+    {
+     "path": "assets/packaging/visuals-cook-01.jpg",
+     "ext": "jpg",
+     "bytes": 225448,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/visuals-cook-01.jpg",
+   "usage": "Approved packaging comp — check ink, ground and the standards block against these.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "visual-cook-02",
+   "name": "COOK — illustration at full strength",
+   "category": "packaging",
+   "group": "packaging visuals",
+   "formats": [
+    {
+     "path": "assets/packaging/visuals-cook-02.jpg",
+     "ext": "jpg",
+     "bytes": 461095,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/visuals-cook-02.jpg",
+   "usage": "Approved packaging comp — check ink, ground and the standards block against these.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "visual-heal-03",
+   "name": "HEAL — front of pack on Forest",
+   "category": "packaging",
+   "group": "packaging visuals",
+   "formats": [
+    {
+     "path": "assets/packaging/visuals-heal-03.jpg",
+     "ext": "jpg",
+     "bytes": 216289,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/visuals-heal-03.jpg",
+   "usage": "Approved packaging comp — check ink, ground and the standards block against these.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  },
+  {
+   "id": "visual-heal-04",
+   "name": "HEAL — illustration and 400ml pair",
+   "category": "packaging",
+   "group": "packaging visuals",
+   "formats": [
+    {
+     "path": "assets/packaging/visuals-heal-04.jpg",
+     "ext": "jpg",
+     "bytes": 393700,
+     "dimensions": ""
+    }
+   ],
+   "preview": "assets/packaging/visuals-heal-04.jpg",
+   "usage": "Approved packaging comp — check ink, ground and the standards block against these.",
+   "restrictions": [
+    "Print artwork as supplied — hand to the printer as-is",
+    "Pantone is the print system on these, not the hex values",
+    "Novecento is already uppercase: never apply caps"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics"
+  }
+ ]
+}
