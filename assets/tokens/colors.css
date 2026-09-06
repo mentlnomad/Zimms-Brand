@@ -4,9 +4,9 @@
 
 :root{
   /* ── Core (locked) ───────────────────────────────────────────── */
-  --zo-forest:#2D4A2D;        /* Deep Forest Green · Pantone 446 C · HEAL */
-  --zo-terracotta:#B85C38;    /* Burnt Terracotta · Pantone 7592 C · COOK */
-  --zo-navy:#1A2744;          /* Deep Navy · Pantone 7546 C · HEAL+ */
+  --zo-forest:#3E4744;        /* Heal Green · Pantone 446 C · HEAL */
+  --zo-terracotta:#B55437;    /* Cook Terracotta · Pantone 7592 C · COOK */
+  --zo-navy:#00334A;          /* Heal+ Blue · Pantone 7546 C · HEAL+ */
   --zo-cream:#F5F0E8;         /* Cream / Linen · Pantone 11-0104 TCX */
 
   /* ── The Oil (gold family) ───────────────────────────────────── */
@@ -40,15 +40,15 @@
   --zo-line-soft:rgba(61,36,16,.14);
 
   /* ── Tints & shades (10% steps toward Cream / toward Root) ───── */
-  --zo-forest-90:#42583F; --zo-forest-70:#6D7E68; --zo-forest-50:#9BA595; --zo-forest-30:#C7CBC0; --zo-forest-10:#EDECE5;
-  --zo-terracotta-90:#BF6B4A; --zo-terracotta-70:#D0906F; --zo-terracotta-50:#DDB49E; --zo-terracotta-30:#E9D3C6; --zo-terracotta-10:#F4ECE5;
-  --zo-navy-90:#2E3A55; --zo-navy-70:#5C6377; --zo-navy-50:#8A8FA0; --zo-navy-30:#B9BCC7; --zo-navy-10:#E5E5E7;
+  --zo-forest-90:#505854; --zo-forest-70:#757A75; --zo-forest-50:#9A9C96; --zo-forest-30:#BEBDB7; --zo-forest-10:#E3DFD8;
+  --zo-terracotta-90:#BB6449; --zo-terracotta-70:#C8836C; --zo-terracotta-50:#D5A290; --zo-terracotta-30:#E2C1B3; --zo-terracotta-10:#EFE0D6;
+  --zo-navy-90:#18465A; --zo-navy-70:#4A6C79; --zo-navy-50:#7A9299; --zo-navy-30:#ACB7B9; --zo-navy-10:#DCDDD8;
   --zo-gold-90:#A57F1A; --zo-gold-70:#BC9C4E; --zo-gold-50:#CDB983; --zo-gold-30:#E1D5B7; --zo-gold-10:#F1EDE0;
   --zo-sky-90:#3B7099; --zo-sky-70:#6392B4; --zo-sky-50:#8DB2CB; --zo-sky-30:#BAD2E1; --zo-sky-10:#E6EEF4;
 
   /* ── Semantic ────────────────────────────────────────────────── */
-  --zo-success:#2D4A2D;
-  --zo-success-surface:#EDECE5;
+  --zo-success:#3E4744;
+  --zo-success-surface:#E3DFD8;
   --zo-error:#8F2E1B;
   --zo-error-surface:#F6E7E2;
   --zo-warning:#9A7200;
@@ -83,7 +83,7 @@
 
   --border-hairline:var(--zo-line-soft);
   --border-strong:var(--zo-navy);
-  --border-input:rgba(26,39,68,.24);
+  --border-input:rgba(0,51,74,.24);
 
   --star-fill:var(--zo-gold-harvest);
 }

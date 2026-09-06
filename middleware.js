@@ -79,7 +79,7 @@ function loginPage(status, showError) {
   :root{color-scheme:dark}
   *{box-sizing:border-box}
   body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
-       padding:24px;background:#1A2744;color:#F5F0E8;
+       padding:24px;background:#00334A;color:#F5F0E8;
        font-family:'Raleway',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
   .card{width:100%;max-width:380px;text-align:center}
   h1{margin:0 0 8px;font-size:15px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
@@ -89,7 +89,7 @@ function loginPage(status, showError) {
         border:1px solid rgba(245,240,232,.28);background:rgba(255,255,255,.06);
         color:#F5F0E8;font-size:16px;font-family:inherit}
   input:focus{outline:2px solid #E8C454;outline-offset:2px;border-color:transparent}
-  button{height:48px;border:0;border-radius:4px;background:#F5F0E8;color:#1A2744;
+  button{height:48px;border:0;border-radius:4px;background:#F5F0E8;color:#00334A;
          font-family:inherit;font-weight:800;font-size:12px;letter-spacing:.1em;
          text-transform:uppercase;cursor:pointer}
   button:hover{background:#fff}

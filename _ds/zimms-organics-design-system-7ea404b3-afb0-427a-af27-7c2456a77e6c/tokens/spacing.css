@@ -61,12 +61,12 @@
 
   /* ── Elevation — restrained. Cards prefer hairlines to shadow. ── */
   --shadow-none:none;
-  --shadow-raised:0 1px 2px rgba(26,39,68,.06);
-  --shadow-card:0 2px 8px rgba(26,39,68,.08);
-  --shadow-overlay:0 8px 32px rgba(26,39,68,.16);
-  --shadow-sticky:0 -2px 16px rgba(26,39,68,.08);
+  --shadow-raised:0 1px 2px rgba(0,51,74,.06);
+  --shadow-card:0 2px 8px rgba(0,51,74,.08);
+  --shadow-overlay:0 8px 32px rgba(0,51,74,.16);
+  --shadow-sticky:0 -2px 16px rgba(0,51,74,.08);
   --scrim-hero:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)); /* @kind other */
-  --scrim-bottom:linear-gradient(180deg,rgba(26,39,68,0) 0%,rgba(26,39,68,.72) 100%); /* @kind other */
+  --scrim-bottom:linear-gradient(180deg,rgba(0,51,74,0) 0%,rgba(0,51,74,.72) 100%); /* @kind other */
 
   /* ── Motion — the slow pour. Never a snap. ───────────────────── */
   --ease-pour:cubic-bezier(.22,.61,.36,1); /* @kind other */

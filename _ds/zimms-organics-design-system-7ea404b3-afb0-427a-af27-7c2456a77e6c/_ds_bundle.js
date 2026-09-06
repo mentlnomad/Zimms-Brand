@@ -3413,7 +3413,7 @@ function Background({
   const Tag = as;
   const base = SURFACES[surface] || SURFACES.paper;
   const dark = surface === 'navy' || surface === 'forest' || surface === 'terracotta';
-  const scrimColor = surface === 'forest' ? '45,74,45' : surface === 'terracotta' ? '184,92,56' : '26,39,68';
+  const scrimColor = surface === 'forest' ? '62,71,68' : surface === 'terracotta' ? '181,84,55' : '0,51,74';
   return /*#__PURE__*/React.createElement(Tag, _extends({
     style: {
       position: 'relative',
@@ -3664,7 +3664,7 @@ function HeroSection({
 }) {
   const gold = variant === 'v1';
   const ground = gold ? 'var(--zo-gold-harvest)' : 'var(--zo-navy)';
-  const scrim = gold ? 'linear-gradient(rgba(154,114,0,.32),rgba(154,114,0,.48))' : 'linear-gradient(rgba(26,39,68,.55),rgba(26,39,68,.72))';
+  const scrim = gold ? 'linear-gradient(rgba(154,114,0,.32),rgba(154,114,0,.48))' : 'linear-gradient(rgba(0,51,74,.55),rgba(0,51,74,.72))';
   return /*#__PURE__*/React.createElement("section", _extends({
     style: {
       position: 'relative',
@@ -6178,7 +6178,7 @@ function HomeScreen({
     style: {
       position: 'absolute',
       inset: 0,
-      background: 'linear-gradient(rgba(26,39,68,.55),rgba(26,39,68,.72))'
+      background: 'linear-gradient(rgba(0,51,74,.55),rgba(0,51,74,.72))'
     }
   }), /*#__PURE__*/React.createElement("div", {
     style: {
@@ -6901,7 +6901,7 @@ function RitualScreen({
     style: {
       position: 'absolute',
       inset: 0,
-      background: 'linear-gradient(rgba(45,74,45,.6),rgba(45,74,45,.78))'
+      background: 'linear-gradient(rgba(62,71,68,.6),rgba(62,71,68,.78))'
     }
   }), /*#__PURE__*/React.createElement("div", {
     style: {

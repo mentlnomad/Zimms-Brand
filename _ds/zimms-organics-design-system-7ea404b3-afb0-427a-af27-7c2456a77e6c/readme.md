@@ -11,9 +11,9 @@ with space. Big Sur, not Beverly Hills. Sonoma, not the South of France.
 
 | Product | Colour | Olive | Polyphenols | Role |
 |---|---|---|---|---|
-| **COOK** | Burnt Terracotta `#B85C38` | Arbosana | 333 | Heat-stable, whole-food cooking |
-| **HEAL** | Deep Forest Green `#2D4A2D` | Arbequina | 311 | The direct ritual — a daily tablespoon |
-| **HEAL+** | Deep Navy `#1A2744` | Koroneiki | 480 | The elevated tier of the direct ritual |
+| **COOK** | Cook Terracotta `#B55437` | Arbosana | 333 | Heat-stable, whole-food cooking |
+| **HEAL** | Heal Green `#3E4744` | Arbequina | 311 | The direct ritual — a daily tablespoon |
+| **HEAL+** | Heal+ Blue `#00334A` | Koroneiki | 480 | The elevated tier of the direct ritual |
 
 Two rituals the brand serves: the **Direct Ritual** (a tablespoon in the morning) and the
 **Culinary Ritual** (cooking whole foods, the shared table).
@@ -134,7 +134,7 @@ practice — "Complete your routine" — never as an upsell, never with urgency.
 
 ### Colour
 
-Four locked core colours lead every layout: Deep Forest Green, Burnt Terracotta, Deep Navy,
+Four locked core colours lead every layout: Heal Green, Cook Terracotta, Heal+ Blue,
 Cream/Linen. Three supporting families extend them — **The Oil** (Harvest Gold, Liquid
 Amber, Sunlit Canopy, First Light), **The Sky** (Grove Sky, Midday Air, Sea Haze) and
 **The Earth** (Sunglow Clay, Warm Wheat, Dark Olive Root).
@@ -144,7 +144,7 @@ established separately and are **equivalents, not conversions** — always state
 you are working in.
 
 Two pairings fail WCAG AA for body text and are marked as failing everywhere in this file:
-Burnt Terracotta on Cream (4.00:1) and Harvest Gold on Cream (3.87:1). Terracotta is legal
+Cook Terracotta on Cream (4.00:1) and Harvest Gold on Cream (3.87:1). Terracotta is legal
 at 24px+ (or 19px bold), for borders and for non-text accents. Gold is legal for stars,
 badges, icons and large numerals. See `guidelines/color-contrast.card.html` for the full
 measured matrix.
@@ -186,9 +186,9 @@ radius 4–8, 24 gap · inputs 48 tall, 12/16 padding, radius 4 · badges 6/12 �
 ### Backgrounds
 
 Flat colour, never a gradient field. Four grounds carry the whole site: Paper `#FFFFFC`,
-Cream `#F5F0E8`, Shell `#FBF7ED` and Bone `#F3F3EC`. Dark sections are solid Deep Navy or
-Deep Forest Green. Photography appears full-bleed in the hero under a flat scrim
-(`rgba(26,39,68,.55)` to `.72`) — never a coloured gradient overlay. The footer closes with
+Cream `#F5F0E8`, Shell `#FBF7ED` and Bone `#F3F3EC`. Dark sections are solid Heal+ Blue or
+Heal Green. Photography appears full-bleed in the hero under a flat scrim
+(`rgba(0,51,74,.55)` to `.72`) — never a coloured gradient overlay. The footer closes with
 a full-bleed grove photograph as a band. Product-card media sits on a flat Bone panel. No
 noise, no texture overlays, no glassmorphism, no mesh gradients. The only permitted
 "texture" is a botanical pattern tile at ≤8% opacity behind a section.
@@ -222,7 +222,7 @@ Terracotta. **Press:** 1px downward translate, no colour change, no scale-down.
 ### Borders, transparency and blur
 
 Hairlines are `rgba(61,36,16,.14)` on light and `rgba(245,240,232,.16)` on dark. Input
-borders are `rgba(26,39,68,.24)`. Transparency appears in exactly three places: the hero
+borders are `rgba(0,51,74,.24)`. Transparency appears in exactly three places: the hero
 scrim, muted text on dark grounds (`rgba(245,240,232,.72–.86)`), and disabled states.
 **Blur is never used.** No backdrop-filter, no frosted panels. The sticky nav is solid Paper
 with a hairline, not a translucent bar.
@@ -581,7 +581,7 @@ They compose the primitives above; nothing is re-implemented inside the kit.
 Two-column, Image + text, Three-up cards, Data/stat, Comparison table, Quote, Closing.
 Deck type runs larger than web type: body 24pt minimum, headings 48pt+. Decks get projected
 in bad rooms, so the failing-contrast colours are excluded from data series — charts use
-Deep Forest, Grove Sky, Deep Navy and Sunglow Clay.
+Deep Forest, Grove Sky, Heal+ Blue and Sunglow Clay.
 
 ## Known gaps
 
