@@ -3852,6 +3852,236 @@
    "license": "Zimms Organics owned imagery"
   },
   {
+   "id": "photo-pack-heal-pair-pale",
+   "name": "HEAL, 400ml and mini with a tasting pour",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-heal-pair-pale.jpg",
+     "ext": "jpg",
+     "bytes": 168948,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/pack-heal-pair-pale.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-cook-pair-slats",
+   "name": "COOK, 400ml and mini on black slats",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-cook-pair-slats.jpg",
+     "ext": "jpg",
+     "bytes": 239031,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/pack-cook-pair-slats.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-cook-rocks",
+   "name": "COOK, 400ml and mini on lava rock",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-cook-rocks.jpg",
+     "ext": "jpg",
+     "bytes": 368115,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/pack-cook-rocks.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-pack-heal-rust",
+   "name": "HEAL, 400ml and mini on weathered steel",
+   "category": "photography",
+   "group": "the pack lit once",
+   "formats": [
+    {
+     "path": "assets/photography/style/pack-heal-rust.jpg",
+     "ext": "jpg",
+     "bytes": 272960,
+     "dimensions": "1008×1512"
+    }
+   ],
+   "preview": "assets/photography/style/pack-heal-rust.jpg",
+   "usage": "March 2026 shoot · subject: the pack lit once. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-cook-shiplap",
+   "name": "COOK mini held, shiplap wall",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-cook-shiplap.jpg",
+     "ext": "jpg",
+     "bytes": 206812,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/hand-cook-shiplap.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-heal-concrete",
+   "name": "HEAL mini held, concrete wall",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-heal-concrete.jpg",
+     "ext": "jpg",
+     "bytes": 236887,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/hand-heal-concrete.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-hand-four-hold",
+   "name": "All four, held in two hands",
+   "category": "photography",
+   "group": "the bottle in hand",
+   "formats": [
+    {
+     "path": "assets/photography/style/hand-four-hold.jpg",
+     "ext": "jpg",
+     "bytes": 322239,
+     "dimensions": "1613×1075"
+    }
+   ],
+   "preview": "assets/photography/style/hand-four-hold.jpg",
+   "usage": "March 2026 shoot · subject: the bottle in hand. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-heal-tasting",
+   "name": "HEAL and a tasting glass on the table",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-heal-tasting.jpg",
+     "ext": "jpg",
+     "bytes": 229729,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/table-heal-tasting.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-heal-pour-toast",
+   "name": "HEAL poured over toast",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-heal-pour-toast.jpg",
+     "ext": "jpg",
+     "bytes": 630879,
+     "dimensions": "1075×1613"
+    }
+   ],
+   "preview": "assets/photography/style/table-heal-pour-toast.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
+   "id": "photo-table-spread-wide",
+   "name": "The full table, set for tasting",
+   "category": "photography",
+   "group": "the table",
+   "formats": [
+    {
+     "path": "assets/photography/style/table-spread-wide.jpg",
+     "ext": "jpg",
+     "bytes": 760730,
+     "dimensions": "1613×1075"
+    }
+   ],
+   "preview": "assets/photography/style/table-spread-wide.jpg",
+   "usage": "March 2026 shoot · subject: the table. One light source, hard-edged shadow left unfilled.",
+   "restrictions": [
+    "Reference set, not a complete library",
+    "No orange grade, no strobe, no clinical white sweep",
+    "Export 2× for retina"
+   ],
+   "minSize": "—",
+   "license": "Zimms Organics owned imagery"
+  },
+  {
    "id": "pack-400ml-cook",
    "name": "COOK 400ml label",
    "category": "packaging",
