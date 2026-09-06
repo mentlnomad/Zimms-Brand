@@ -2430,61 +2430,6 @@
    "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
   },
   {
-   "id": "mark-rule",
-   "name": "rule",
-   "category": "illustration",
-   "group": "field",
-   "formats": [
-    {
-     "path": "assets/illustrations/mark-rule.svg",
-     "ext": "svg",
-     "bytes": 210,
-     "dimensions": "4×2",
-     "colour": "currentColor"
-    },
-    {
-     "path": "assets/illustrations/mark-rule-forest.svg",
-     "ext": "svg",
-     "bytes": 205,
-     "dimensions": "4×2",
-     "colour": "Forest"
-    },
-    {
-     "path": "assets/illustrations/mark-rule-terracotta.svg",
-     "ext": "svg",
-     "bytes": 205,
-     "dimensions": "4×2",
-     "colour": "Terracotta"
-    },
-    {
-     "path": "assets/illustrations/mark-rule-navy.svg",
-     "ext": "svg",
-     "bytes": 205,
-     "dimensions": "4×2",
-     "colour": "Navy"
-    },
-    {
-     "path": "assets/illustrations/mark-rule-cream.svg",
-     "ext": "svg",
-     "bytes": 205,
-     "dimensions": "4×2",
-     "colour": "Cream"
-    }
-   ],
-   "preview": "assets/illustrations/mark-rule.svg",
-   "usage": "Compositions and background fields",
-   "restrictions": [
-    "currentColor, one color, no strokes, no internal palette",
-    "One subject per frame — no scene-building from two marks",
-    "No mark inside a circle",
-    "Minimum breathing room is one mark-width",
-    "Below 24px use an icon instead"
-   ],
-   "minSize": "40px in UI (any size in print)",
-   "license": "Zimms Organics proprietary illustration",
-   "colors": "currentColor plus Forest, Terracotta, Navy and Cream, pre-filled"
-  },
-  {
    "id": "mark-smoke-ribbon",
    "name": "smokeRibbon",
    "category": "illustration",
