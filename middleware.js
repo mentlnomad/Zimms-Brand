@@ -21,6 +21,19 @@ export const config = { matcher: '/:path*' };
 const FALLBACK_PW_SHA256 =
   '641bc6fce09863075685c7a9d58c02a6f00c68a5638504b4473223641278116e';
 
+/* The gate page carries the link-preview tags itself, and OG_IMAGE is served
+ * without a cookie. A scraper cannot log in, so if the tags lived only in the
+ * protected page every shared link would render as a bare URL. Nothing here is
+ * protected content: a title, a description and the brand banner. */
+const BASE = 'https://zimms-brand.vercel.app';
+const OG_IMAGE = '/assets/social/zimms-og.png';
+const TITLE = 'Zimms Organics Brand Guidelines';
+const DESC =
+  'The working reference for anyone making something with the Zimms name on it. ' +
+  'Colors, type, logo, photography, components and claim rules, with the real files attached.';
+const ALT =
+  'Zimms Organics \u2014 organic extra virgin olive oil. Brand guidelines and assets, 2026.';
+
 const COOKIE = 'zo_gate';
 const TOKEN_SALT = '|zo-gate-v1';
 const MAX_AGE = 60 * 60 * 24 * 30; // 30 days
@@ -75,6 +88,22 @@ function loginPage(status, showError) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>Zimms Organics Brand Guidelines</title>
+<meta name="description" content="${DESC}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Zimms Organics">
+<meta property="og:url" content="${BASE}/">
+<meta property="og:title" content="${TITLE}">
+<meta property="og:description" content="${DESC}">
+<meta property="og:image" content="${BASE}${OG_IMAGE}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${ALT}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${TITLE}">
+<meta name="twitter:description" content="${DESC}">
+<meta name="twitter:image" content="${BASE}${OG_IMAGE}">
+<meta name="twitter:image:alt" content="${ALT}">
 <style>
   :root{color-scheme:dark}
   *{box-sizing:border-box}
@@ -121,6 +150,9 @@ function loginPage(status, showError) {
 }
 
 export default async function middleware(request) {
+  // The preview image must be fetchable by scrapers, which have no cookie.
+  if (new URL(request.url).pathname === OG_IMAGE) return pass();
+
   const token = await expectedToken();
 
   const presented = readCookie(request.headers.get('cookie'), COOKIE);
@@ -147,5 +179,11 @@ export default async function middleware(request) {
     return loginPage(401, true);
   }
 
-  return loginPage(401, false);
+  // 200 for a document, 401 for anything else. Several link scrapers discard
+  // the body of a 401, so the page itself must answer 200 or the preview falls
+  // back to a bare URL. Asset paths keep 401 so no cache can ever hold this
+  // HTML at a .jpg or .css URL. No protected content is served either way.
+  const path = new URL(request.url).pathname;
+  const isDocument = !/\.[a-z0-9]+$/i.test(path) || /\.html?$/i.test(path);
+  return loginPage(isDocument ? 200 : 401, false);
 }
