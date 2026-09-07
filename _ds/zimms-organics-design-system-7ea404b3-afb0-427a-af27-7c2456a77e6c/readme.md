@@ -32,11 +32,9 @@ invented from a public reference.
   The file has no public URL in the material provided — request it from the brand owner.
 - **Brand screenshots** (`uploads/`) — six board exports covering logo lockups, the
   illustration library, the colour boards with Pantone references, the type specimen
-  (Novecento Sans / National / Lora), the pattern tiles, and the icon + trust-mark sheet.
+  (Novecento Sans / National), the pattern tiles, and the icon + trust-mark sheet.
 - **Font binaries** (`uploads/`) — `Novecentosanswide-DemiBold.otf`, `National-Book.otf`,
-  `Lora-Italic-VariableFont_wght.ttf`.
-
-## Index
+  ## Index
 
 | File | What it is |
 |---|---|
@@ -123,8 +121,8 @@ practice — "Complete your routine" — never as an upsell, never with urgency.
    Cream/Linen `#F5F0E8`; the production build also uses Paper `#FFFFFC` and Shell
    `#FBF7ED`. One documented exception: the Marketplace Exception (below).
 2. **All spacing is a multiple of 8.** 4px only for icon and type nudges. Never 15, never 27.
-3. **Serif carries emotion, sans carries function.** Lora for headlines, ritual copy and
-   pull quotes. DM Sans for body and UI. Raleway ExtraBold caps for labels only.
+3. **Display carries emotion, body carries function.** Cal Sans for headlines, ritual copy and
+   pull quotes. DM Sans for body and UI. Cal Sans uppercase for labels only.
 4. **Gold and terracotta are accents, never fields.** Landscape proportions: mostly open
    ground and sky, punctuated by the gold of the grove.
 5. **Space is part of the voice.** Density reads cheap. Air reads premium.
@@ -152,17 +150,17 @@ measured matrix.
 ### Type
 
 Two parallel tracks. **Packaging/print:** Novecento Sans Wide DemiBold (display), National
-Book (body), Lora Regular (editorial). **Web/digital:** Lora (headlines), DM Sans
-Light/Regular (body and UI), Raleway ExtraBold (section labels), Cormorant Garamond at 40px
+Book (body). **Web/digital:** Cal Sans (headlines), DM Sans
+Light/Regular (body and UI), Cal Sans uppercase (section labels)
 and above only.
 
-Production values, lifted from the build: hero Lora 62/66; section heading Lora 44/1.15;
-card title Lora 18/100%; body DM Sans 16–18 at 1.6–1.8; card support copy DM Sans 14;
-button label DM Sans SemiBold 16 uppercase; the section eyebrow is Lora **Bold** 18 caps
+Production values, lifted from the build: hero Cal Sans 62/66; section heading Cal Sans 44/1.15;
+card title Cal Sans 18/100%; body DM Sans 16–18 at 1.6–1.8; card support copy DM Sans 14;
+button label DM Sans SemiBold 16 uppercase; the section eyebrow is Cal Sans 18 caps
 with 16px rules either side. Minimum body size 16px, minimum line-height 1.6, measure capped
 at 680–760px.
 
-Email fallbacks: Lora → Georgia · Raleway → Arial · DM Sans → Helvetica/Arial.
+Email fallbacks: Cal Sans → Arial · DM Sans → Helvetica/Arial.
 
 Banned: Montserrat, Oswald, Bebas Neue, Lato, Open Sans, Roboto, Playfair Display, Libre
 Baskerville, PT Serif. No script fonts, no drop shadows on type, no two serif styles in one
@@ -365,7 +363,7 @@ bitmap wordmark — so they are named for what they are and will never match kit
 
 Also confirmed: the Figma Variables carried a stray `--font-family-font-4: "Inter"` that no
 component referenced. Inter is not a Zimms Organics brand font, so the token has been removed
-rather than preserved. The brand families are Lora, DM Sans, Raleway and Cormorant Garamond.
+rather than preserved. The brand families are Cal Sans and DM Sans.
 
 #### Intentional additions — where each pattern lives
 
@@ -378,7 +376,7 @@ names is expected to match a Figma family name.
 |---|---|
 | `Button` | Hero "Shop now", "View all", "Buy now", "Explore mini bottle" — 200×54, radius 4 |
 | `Badge` | Wellness / Cooking pill inset 16px in product-card media |
-| `SectionLabel` | "Trusted by", "About us", "Collections" — Lora Bold 18 caps with 16px rules |
+| `SectionLabel` | "Trusted by", "About us", "Collections" — Cal Sans 18 caps with 16px rules |
 | `Rating` | Star row on cards, hero and review headers |
 | `PriceStack` | The `Item` price row: struck compare-at, price, "New price" |
 | `Input` | Footer newsletter field, PDP discount field |
@@ -445,7 +443,7 @@ Further families built under their source names:
 
 These come from the **earlier marketing iterations** (March–April artboards), which use a
 rounder, sans-led language: 24px card radius, pill buttons, DM Sans headings on #F7F7F7.
-The May 18 storefront moved to the square, Lora-led system in the other five groups. Both
+The May 18 storefront moved to the square, Cal Sans-led system in the other five groups. Both
 are documented because both are in the file — **do not mix the two shapes on one page**.
 
 Only three of these are genuinely new rather than renamed: `PolyphenolMeter` (the pack
@@ -596,10 +594,8 @@ Deep Forest, Grove Sky, Heal+ Blue and Sunglow Clay.
   `Logo`. `assets/logo/zimms-wordmark.png` and `zimms-wordmark-footer.png` are the old
   bitmaps and should no longer be referenced — `NavBar` still points at the PNG and wants
   updating to `<Logo mark="wordmark" />`.
-- **Font substitutions.** Lora, DM Sans, Raleway and Cormorant Garamond load from Google
-  Fonts (they are the genuine families, not lookalikes). The supplied `Lora-Italic`
-  variable binary is registered as `Lora Supplied` for italic; upright Lora comes from
-  Google. Novecento Sans Wide and National ship as the supplied OTFs and are **print-track
+- **Font substitutions.** Cal Sans and DM Sans load from Google
+  Fonts (they are the genuine families, not lookalikes). Novecento Sans Wide and National ship as the supplied OTFs and are **print-track
   only** — do not use them for web UI. If you have licensed webfont builds (WOFF2) of
   Novecento and National, supply them and `tokens/fonts.css` can be pointed at those.
 - **Inter is not a brand font.** A stray `--font-family-font-4: "Inter"` token came across

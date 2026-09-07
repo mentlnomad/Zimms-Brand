@@ -1,19 +1,19 @@
 /* Zimms Organics — typography.
-   Two tracks. PACKAGING/PRINT: Novecento Sans Wide DemiBold · National Book · Lora Regular.
-   WEB/DIGITAL: Raleway ExtraBold · DM Sans · Lora · Cormorant Garamond (40px+ only). */
+   Two tracks. PACKAGING/PRINT: Novecento Sans Wide DemiBold · National Book.
+   WEB/DIGITAL: Cal Sans (400) · DM Sans. */
 
 :root{
   /* families */
-  --font-serif:Lora,ui-serif,Georgia,"Times New Roman",serif;
+  --font-serif:"Cal Sans",Helvetica,Arial,sans-serif;
   --font-sans:"DM Sans",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;
-  --font-label:Raleway,"Helvetica Neue",Arial,sans-serif;
-  --font-display-xl:"Cormorant Garamond",Lora,Georgia,serif;   /* 40px and above only */
-  --font-pack-display:"Novecento Sans Wide","Raleway",Arial,sans-serif;
-  --font-pack-body:"National","DM Sans",Helvetica,Arial,sans-serif;
+  --font-label:"Cal Sans","Helvetica Neue",Arial,sans-serif;
+  --font-display-xl:"Cal Sans",Helvetica,Arial,sans-serif;
+  --font-pack-display:"Novecento Sans Wide","Cal Sans",Helvetica,Arial,sans-serif;
+  --font-pack-body:"National","DM Sans",Arial,sans-serif;
 
   /* email-safe fallback stacks */
-  --font-email-serif:Lora,Georgia,serif;
-  --font-email-label:Raleway,Arial,sans-serif;
+  --font-email-serif:"Cal Sans",Helvetica,Arial,sans-serif;
+  --font-email-label:"Cal Sans",Arial,sans-serif;
   --font-email-sans:"DM Sans",Helvetica,Arial,sans-serif;
 
   /* weights */
@@ -55,7 +55,7 @@
   --fs-label-lg:14px; /* @kind font */
 
   /* tracking */
-  --ls-label:0.10em; /* @kind font */ /* Raleway caps section labels: 0.08–0.12em */
+  --ls-label:0.10em; /* @kind font */ /* Cal Sans caps section labels: 0.08–0.12em */
   --ls-label-tight:0.08em; /* @kind font */
   --ls-caps-ui:0.04em; /* @kind font */
   --ls-normal:0; /* @kind font */
@@ -79,8 +79,8 @@
 .zo-h1{font-family:var(--font-serif);font-weight:var(--fw-regular);font-size:var(--fs-h1);line-height:var(--lh-h1);color:var(--text-heading);text-wrap:pretty}
 .zo-h2{font-family:var(--font-serif);font-weight:var(--fw-regular);font-size:var(--fs-h2);line-height:var(--lh-h2);color:var(--text-heading);text-wrap:pretty}
 .zo-h3{font-family:var(--font-serif);font-weight:var(--fw-regular);font-size:var(--fs-h3);line-height:var(--lh-h3);color:var(--text-heading)}
-.zo-h4{font-family:var(--font-serif);font-weight:var(--fw-medium);font-size:var(--fs-h4);line-height:var(--lh-h4);color:var(--text-heading)}
-.zo-label{font-family:var(--font-label);font-weight:var(--fw-extrabold);font-size:var(--fs-label);line-height:var(--lh-label);letter-spacing:var(--ls-label);text-transform:uppercase;color:var(--text-heading)}
+.zo-h4{font-family:var(--font-serif);font-weight:var(--fw-regular);font-size:var(--fs-h4);line-height:var(--lh-h4);color:var(--text-heading)}
+.zo-label{font-family:var(--font-label);font-weight:var(--fw-regular);font-size:var(--fs-label);line-height:var(--lh-label);letter-spacing:var(--ls-label);text-transform:uppercase;color:var(--text-heading)}
 .zo-lede{font-family:var(--font-serif);font-weight:var(--fw-regular);font-size:var(--fs-lede);line-height:var(--lh-lede);color:var(--text-body)}
 .zo-body-lg{font-family:var(--font-sans);font-weight:var(--fw-regular);font-size:var(--fs-body-lg);line-height:var(--lh-body-lg);color:var(--text-body)}
 .zo-body{font-family:var(--font-sans);font-weight:var(--fw-regular);font-size:var(--fs-body);line-height:var(--lh-body);color:var(--text-body)}

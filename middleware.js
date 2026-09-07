@@ -80,7 +80,7 @@ function loginPage(status, showError) {
   *{box-sizing:border-box}
   body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
        padding:24px;background:#00334A;color:#F5F0E8;
-       font-family:'Raleway',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+       font-family:'Cal Sans',Helvetica,Arial,sans-serif}
   .card{width:100%;max-width:380px;text-align:center}
   h1{margin:0 0 8px;font-size:15px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
   p{margin:0 0 28px;font-size:13px;line-height:1.6;color:rgba(245,240,232,.68)}

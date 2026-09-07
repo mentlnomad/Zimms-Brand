@@ -1342,7 +1342,7 @@ function BlogCard({
   })), category && /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 11,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -1543,7 +1543,7 @@ Object.assign(__ds_scope, { PressBar, __ds_default_components_content_PressBar_1
 // components/content/QuoteBlock.jsx
 try { (() => {
 function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
-/** Manifesto / pull quote. Lora at display size on a calm ground, generous with space. */
+/** Manifesto / pull quote. Cal Sans at display size on a calm ground, generous with space. */
 function QuoteBlock({
   children,
   attribution,
@@ -1583,7 +1583,7 @@ function QuoteBlock({
   }, children), attribution && /*#__PURE__*/React.createElement("figcaption", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 13,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -2247,7 +2247,7 @@ function BundleSummary({
   }, eyebrow && /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 13,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -2271,7 +2271,7 @@ function BundleSummary({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 11,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -2306,7 +2306,7 @@ function BundleSummary({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 11,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -2456,7 +2456,7 @@ function BuyBox({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 11,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -2478,7 +2478,7 @@ Object.assign(__ds_scope, { BuyBox, __ds_default_components_commerce_BuyBox_1usf
 // components/commerce/ProductCard.jsx
 try { (() => {
 function _extends() { return _extends = Object.assign ? Object.assign.bind() : function (n) { for (var e = 1; e < arguments.length; e++) { var t = arguments[e]; for (var r in t) ({}).hasOwnProperty.call(t, r) && (n[r] = t[r]); } return n; }, _extends.apply(null, arguments); }
-/** Shop card. Bone media panel, pill category badge top-left, Lora title, DM Sans support copy. */
+/** Shop card. Bone media panel, pill category badge top-left, Cal Sans title, DM Sans support copy. */
 function ProductCard({
   image,
   alt = '',
@@ -2723,7 +2723,7 @@ function SectionLabel({
   }), /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-serif)',
-      fontWeight: 700,
+      fontWeight: 400,
       fontSize: 18,
       lineHeight: '100%',
       textTransform: 'uppercase',
@@ -2998,7 +2998,7 @@ function NewsletterForm({
   }, rest), heading && /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 13,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -4354,7 +4354,7 @@ function RightForYou({
   }, eyebrow && /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 13,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -5017,7 +5017,7 @@ function Footer({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 12,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -5649,7 +5649,7 @@ function Eyebrow({
   return /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 20,
       letterSpacing: '0.12em',
       textTransform: 'uppercase',
@@ -5906,7 +5906,7 @@ function CartScreen({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 12,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
@@ -6732,7 +6732,7 @@ function ProductScreen({
   }, /*#__PURE__*/React.createElement("span", {
     style: {
       fontFamily: 'var(--font-label)',
-      fontWeight: 800,
+      fontWeight: 400,
       fontSize: 12,
       letterSpacing: 'var(--ls-label)',
       textTransform: 'uppercase',
